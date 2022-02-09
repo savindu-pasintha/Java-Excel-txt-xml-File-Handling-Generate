@@ -1,0 +1,1161 @@
+<record><Stringname>in_re_balance_si</Stringname><English>Remaining Balance</English></record>
+<record><Stringname>in_transaction_reason_si</Stringname><English>Reason</English></record>
+<record><Stringname>inv_item_cancel</Stringname><English>Receipt Item Cancel</English></record>
+<record><Stringname>inv_item_cancel_new</Stringname><English>Delete receipt item</English></record>
+<record><Stringname>inv_item_cancel_body</Stringname><English>Enter admin password for remove item from bucket.</English></record>
+<record><Stringname>inv_item_cancel_body_new</Stringname><English>Are you sure want to delete this item from receipt?</English></record>
+<record><Stringname>inv_exdate_validate_empty_si</Stringname><English>Enter expire date</English></record>
+<record><Stringname>view_pre_bill_items</Stringname><English>Pre Bill Items</English></record>
+<record><Stringname>inv_pre_bill_cancel_title</Stringname><English>Cancel Pre Bill</English></record>
+<record><Stringname>inv_pre_bill_cancel_body</Stringname><English>Enter your admin password to delete this pre bill. </English></record>
+<record><Stringname>inv_cashier</Stringname><English>Cashier</English></record>
+<record><Stringname>in_remaining_si</Stringname><English>Remaining</English></record>
+<record><Stringname>available_points_si</Stringname><English>Available Points</English></record>
+<record><Stringname>in_points_earn_si</Stringname><English>Points earned</English></record>
+<record><Stringname>re_success_note_si</Stringname><English>Note: you can disable this page in software customization    section </English></record>
+<record><Stringname>in_pay_type_si</Stringname><English>Pay Type</English></record>
+<record><Stringname>popup_pre_bill_si</Stringname><English>Create Pre Bill</English></record>
+<record><Stringname>popup_pre_bill_view_si</Stringname><English>View Pre Bill</English></record>
+<record><Stringname>popup_add_stock_si</Stringname><English>Stock Add</English></record>
+<record><Stringname>popup_other_charges_si</Stringname><English>Add other charges/tax</English></record>
+<record><Stringname>popup_internal_barcode_si</Stringname><English>Internal barcode</English></record>
+<record><Stringname>popup_queue</Stringname><English>Queue</English></record>
+<record><Stringname>popup_cash_si</Stringname><English>Drawer transaction</English></record>
+<record><Stringname>title_cash_si</Stringname><English>Drawer Transactions</English></record>
+<record><Stringname>popup_select_table_si</Stringname><English>Select Table</English></record>
+<record><Stringname>popup_cretae_kot_si</Stringname><English>Create KOT</English></record>
+<record><Stringname>popup_view_kot_si</Stringname><English>View KOT</English></record>
+<record><Stringname>popup_update_kot_si</Stringname><English>Update KOT</English></record>
+<record><Stringname>popup_hold_inv_si</Stringname><English>Hold Receipt</English></record>
+<record><Stringname>popup_hold_inv_si_new</Stringname><English>Delete saved receipt product</English></record>
+<record><Stringname>popup_view_hold_inv_si</Stringname><English>View Hold Receipts</English></record>
+<record><Stringname>popup_view_customer_order_si</Stringname><English>View Orders</English></record>
+<record><Stringname>popup_update_customer_order_si</Stringname><English>Update Customer Order</English></record>
+<record><Stringname>popup_update_invoice_si</Stringname><English>Update Receipt</English></record>
+<record><Stringname>popup_credit_settlement_inv_si</Stringname><English>Credit Settlement</English></record>
+<record><Stringname>customer_credit_settlement</Stringname><English>Customer Credit Settlement</English></record>
+<record><Stringname>popup_credit_settlement_cancel_si</Stringname><English>Cancel Credit Settlement</English></record>
+<record><Stringname>customer_credit_settlement_confirm</Stringname><English>Do you want to proceed this transaction? </English></record>
+<record><Stringname>popup_assign_employee_inv_si</Stringname><English>Assign employee</English></record>
+<record><Stringname>popup_assign_agent_inv_si</Stringname><English>Assign Agent</English></record>
+<record><Stringname>popup_back_office_si</Stringname><English>Back Office</English></record>
+<record><Stringname>popup_past_invoice_si</Stringname><English>Past Receipts</English></record>
+<record><Stringname>inv_add_other_charge_appliy_si</Stringname><English>Apply</English></record>
+<record><Stringname>popup_customize_si</Stringname><English>Customize Extra Menu</English></record>
+<record><Stringname>popup_customer_feedback_si</Stringname><English>Customer Feedback</English></record>
+<record><Stringname>popup_credit_settlement_cancel_body_si</Stringname><English>Are you sure , you want to delete this    credit Settlement? </English></record>
+<record><Stringname>popup_credit_settlement_cancel_body_si_new</Stringname><English>Are you sure you want to cancel the credit settlement?</English></record>
+<record><Stringname>count</Stringname><English>Items :</English></record>
+<record><Stringname>Qty</Stringname><English>Qty :</English></record>
+<record><Stringname>customer_si</Stringname><English>Customer :</English></record>
+<record><Stringname>popup_title_inv_employee_assign_si</Stringname><English>Assign an Employee</English></record>
+<record><Stringname>popup_title_inv_agent_assign_si</Stringname><English>Assign an Agent</English></record>
+<record><Stringname>inv_barcode_no_stock_si</Stringname><English>No stock available</English></record>
+<record><Stringname>inv_barcode_no_error_si</Stringname><English>Wrong barcode,Try again.</English></record>
+<record><Stringname>inv_barcode_no_stock_found_si</Stringname><English>No stock found</English></record>
+<record><Stringname>inv_no_stock_create_found_si</Stringname><English>No stock found, create product and add a stock </English></record>
+<record><Stringname>toast_inv_bucket_empty_chk_si</Stringname><English>Please select items</English></record>
+<record><Stringname>inv_total_si</Stringname><English>Total</English></record>
+<record><Stringname>total_amount_due</Stringname><English>Amount due</English></record>
+<record><Stringname>alert_title_inv_discount_si</Stringname><English>Total Discount</English></record>
+<record><Stringname>validate_inv_discount_si</Stringname><English>Can not be greater than 100%</English></record>
+<record><Stringname>validate_inv_discount_val_si</Stringname><English>Please check your value</English></record>
+<record><Stringname>tost_inv_wrong_cash_si</Stringname><English>Please enter correct payment value</English></record>
+<record><Stringname>inv_history_crn_access_si</Stringname><English>Credit note or cash refund has been already done </English></record>
+<record><Stringname>inv_history_delete_access_si</Stringname><English>Cannot delete this receipt due to credit note     creation  </English></record>
+<record><Stringname>inv_history_delete_access_cr_si</Stringname><English>Cannot delete this receipt due to cash refund </English></record>
+<record><Stringname>inv_history_crn_success_si</Stringname><English>Credit note has been successfully created</English></record>
+<record><Stringname>toast_inv_crid_empty_chk_si</Stringname><English>Please enter credit note ID</English></record>
+<record><Stringname>toast_inv_crid_invalid_chk_si</Stringname><English>Invalid credit note id</English></record>
+<record><Stringname>inv_enter_amount_si</Stringname><English>Enter cash amount</English></record>
+<record><Stringname>toast_amount_exeed_si</Stringname><English>Your amount is exeeded the cash drawer amount</English></record>
+<record><Stringname>exceed_inv_discount_val_si</Stringname><English>Exceed maximum discount value</English></record>
+<record><Stringname>exceed_inv_discount_si</Stringname><English>Exceed maximum discount percentage</English></record>
+<record><Stringname>exceed_amount_multi_payment</Stringname><English>Enter lesser amount for multi payment</English></record>
+<record><Stringname>toast_staff_multi_si</Stringname><English>This payment option is not available for multi payment </English></record>
+<record><Stringname>toast_payment_complete_si</Stringname><English>You cannot add another payment</English></record>
+<record><Stringname>toast_insufficient_point_si</Stringname><English>This customer does not have enough points</English></record>
+<record><Stringname>multi_payment</Stringname><English>Multi payments</English></record>
+<record><Stringname>earned_points</Stringname><English>Earned Points : </English></record>
+<record><Stringname>inv_history_deleted_sucess_si</Stringname><English>Receipt has been deleted</English></record>
+<record><Stringname>inv_history_deleted_title_si</Stringname><English>Receipt Deletion</English></record>
+<record><Stringname>inv_history_deleted_title_si_new</Stringname><English>Receipt Deletes</English></record>
+<record><Stringname>inv_history_crn_title_si</Stringname><English>Create Credit Note </English></record>
+<record><Stringname>inv_history_cr_title_si</Stringname><English>Create Cash Refund</English></record>
+<record><Stringname>cn_history_deleted_sucess_si</Stringname><English>Credit note has been canceled</English></record>
+<record><Stringname>cn_history_deleted_sucess_si_new</Stringname><English>Credit note has been deleted</English></record>
+<record><Stringname>cn_history_deleted_title_si</Stringname><English>Credit Note Cancellation</English></record>
+<record><Stringname>cn_history_deleted_title_si_new</Stringname><English>Credit Note Delete</English></record>
+<record><Stringname>cn_history_deleted_body_msg_si</Stringname><English>Are you sure you want to cancel the credit note?</English></record>
+<record><Stringname>cn_history_deleted_body_msg_si_new</Stringname><English>Are you sure want to delete this credit note?</English></record>
+<record><Stringname>cr_history_deleted_sucess_si</Stringname><English>Cash refund has been canceled</English></record>
+<record><Stringname>cr_history_deleted_sucess_si_new</Stringname><English>Cash refund has been deleted</English></record>
+<record><Stringname>cr_history_deleted_title_si</Stringname><English>Cash Refund Cancellation</English></record>
+<record><Stringname>cr_history_deleted_title_si_new</Stringname><English>Cash Refund Delete</English></record>
+<record><Stringname>cr_history_deleted_body_msg_si</Stringname><English>Are you sure you want to cancel the cash refund?</English></record>
+<record><Stringname>cr_history_deleted_body_msg_si_new</Stringname><English>Are you sure want to delete this cash refund?</English></record>
+<record><Stringname>print_history_crn_title_si</Stringname><English>Past Credit Note Report</English></record>
+<record><Stringname>cr_history_create_cn_body_msg_si</Stringname><English>Are you sure you want to create the credit    note? </English></record>
+<record><Stringname>cr_history_create_cr_body_msg_si</Stringname><English>Are you sure you want to create cash   refund?</English></record>
+<record><Stringname>rep_search_si</Stringname><English>Search</English></record>
+<record><Stringname>rep_total_sales_si</Stringname><English>  Total Sales</English></record>
+<record><Stringname>rep_total_cost_si</Stringname><English>  Total Cost : </English></record>
+<record><Stringname>rep_profit_si</Stringname><English>  Profit : </English></record>
+<record><Stringname>rep_payment_method_si</Stringname><English>  Payment type :</English></record>
+<record><Stringname>rep_sold_si</Stringname><English>Sold Qty</English></record>
+<record><Stringname>rep_refrence_si</Stringname><English>Reference :</English></record>
+<record><Stringname>rep_total_discount_si</Stringname><English>Total Discount</English></record>
+<record><Stringname>rep_credit_si</Stringname><English>Credit</English></record>
+<record><Stringname>rep_check_si</Stringname><English>Cheque</English></record>
+<record><Stringname>rep_card_si</Stringname><English>Card Payment</English></record>
+<record><Stringname>print_total_sales_si</Stringname><English>Total Sales</English></record>
+<record><Stringname>pay_refrence_si</Stringname><English>Reference</English></record>
+<record><Stringname>pay_refrence_si_1</Stringname><English>Ref</English></record>
+<record><Stringname>print_today_cash_si</Stringname><English>Cash Balance</English></record>
+<record><Stringname>rep_invoice_number_si</Stringname><English>Receipt # :</English></record>
+<record><Stringname>rep_payment_number_si</Stringname><English>Seq</English></record>
+<record><Stringname>print_invoice_list_history_si</Stringname><English>Past Receipt List</English></record>
+<record><Stringname>rep_purchased_qty_si</Stringname><English>Purchased Qty</English></record>
+<record><Stringname>rep_item_price_si</Stringname><English>Product Price</English></record>
+<record><Stringname>rep_item_cost_si</Stringname><English>Product Cost</English></record>
+<record><Stringname>rep_kot_si</Stringname><English>KOT Target</English></record>
+<record><Stringname>print_item_cost_si</Stringname><English>Item Cost</English></record>
+<record><Stringname>credit_crn_total_si</Stringname><English>Value</English></record>
+<record><Stringname>print_return_value_si</Stringname><English>Return Value</English></record>
+<record><Stringname>pro_qty_si</Stringname><English>Increase qty</English></record>
+<record><Stringname>pro_new_line_si</Stringname><English>Multiple Line</English></record>
+<record><Stringname>rep_start_date_si</Stringname><English>Start Date</English></record>
+<record><Stringname>rep_end_date_si</Stringname><English>End Date</English></record>
+<record><Stringname>rep_category_si</Stringname><English>Category</English></record>
+<record><Stringname>rep_item_code_si</Stringname><English>Item Code</English></record>
+<record><Stringname>rep_item_name_si</Stringname><English>Item Name</English></record>
+<record><Stringname>rep_total_revenue_si</Stringname><English>Total Revenue</English></record>
+<record><Stringname>rep_total_sold_qty_si</Stringname><English>Total Sold Qty</English></record>
+<record><Stringname>rep_total_costs_si</Stringname><English>Total Cost</English></record>
+<record><Stringname>rep_total_discounts_si</Stringname><English>Total Discount</English></record>
+<record><Stringname>rep_profits_si</Stringname><English>Profit</English></record>
+<record><Stringname>print_revenue_report_si</Stringname><English>Revenue Report</English></record>
+<record><Stringname>print_start_date_si</Stringname><English>Start Date</English></record>
+<record><Stringname>print_end_date_si</Stringname><English>End Date</English></record>
+<record><Stringname>print_category_si</Stringname><English>Category</English></record>
+<record><Stringname>print_item_code_si</Stringname><English>Item Code</English></record>
+<record><Stringname>print_item_name_si</Stringname><English>Item Name</English></record>
+<record><Stringname>print_total_sold_qty_si</Stringname><English>Total Sold Qty</English></record>
+<record><Stringname>print_total_revenue_si</Stringname><English>Total Revenue</English></record>
+<record><Stringname>print_total_costs_si</Stringname><English>Total Cost</English></record>
+<record><Stringname>print_total_discounts_si</Stringname><English>Total Discount</English></record>
+<record><Stringname>print_profits_si</Stringname><English>Profit</English></record>
+<record><Stringname>print_cash_report_si</Stringname><English>Cash Drawer Report</English></record>
+<record><Stringname>rep_service_charge_si</Stringname><English>Service Charges</English></record>
+<record><Stringname>pro_type_si</Stringname><English>Type</English></record>
+<record><Stringname>pro_percentage_si</Stringname><English>Percentage</English></record>
+<record><Stringname>pro_value_si</Stringname><English>Value</English></record>
+<record><Stringname>pro_sub_category_si</Stringname><English>Sub category</English></record>
+<record><Stringname>pro_charges_si</Stringname><English>Charges</English></record>
+<record><Stringname>pro_tax_si</Stringname><English>Tax</English></record>
+<record><Stringname>pro_save_si</Stringname><English>SAVE</English></record>
+<record><Stringname>pro_clear_appication_data_si</Stringname><English>Clear Application Data</English></record>
+<record><Stringname>pro_message_si</Stringname><English>This function will clear application data. Do you want to     continue? </English></record>
+<record><Stringname>pro_message_6m_si</Stringname><English>This function will clear all transaction data more than one     month. Do you want to continue?</English></record>
+<record><Stringname>pro_provide_password_si</Stringname><English>Provide admin password</English></record>
+<record><Stringname>pro_records_clear_msg_si</Stringname><English>Records Cleared Successfully</English></record>
+<record><Stringname>inv_del_body_si</Stringname><English>Are you sure you want to delete this receipt?</English></record>
+<record><Stringname>inv_del_body_si_new</Stringname><English>Are you sure you want to delete the receipt?</English></record>
+<record><Stringname>pro_message_selected</Stringname><English>This function will clear selected reports. Do you want to    continue?  </English></record>
+<record><Stringname>pro_message_6m_selected</Stringname><English>This function will clear selected reports more than one     month. Do you want to continue?  </English></record>
+<record><Stringname>pro_msg_select</Stringname><English>Please select options</English></record>
+<record><Stringname>login_internet_alert_title_si</Stringname><English>No Internet Connection</English></record>
+<record><Stringname>login_error_pwd_si</Stringname><English>Incorrect Password</English></record>
+<record><Stringname>login_internet_chk_si</Stringname><English>Internet connection is required</English></record>
+<record><Stringname>toast_login_pwd_error_msg_si</Stringname><English>Enter your password</English></record>
+<record><Stringname>toast_login_pwd_inccorect_si</Stringname><English>Password is incorrect</English></record>
+<record><Stringname>toast_login_act_problem_si</Stringname><English>Problem with Activation</English></record>
+<record><Stringname>toast_login_internet_problem_si</Stringname><English>No internet connection</English></record>
+<record><Stringname>toast_login_tc_apply_si</Stringname><English>Please agree to the Terms of Use and Privacy Policy</English></record>
+<record><Stringname>toast_try_agin_si</Stringname><English>Something went wrong. Try again</English></record>
+<record><Stringname>toast_register</Stringname><English>You have to register with back office web portal before uploading    data to cloud </English></record>
+<record><Stringname>toast_login_uname_error_msg_si</Stringname><English>Select username</English></record>
+<record><Stringname>toast_please_wait_si</Stringname><English>Please wait, Back office is loading</English></record>
+<record><Stringname>toast_server_down_si</Stringname><English>Oops! Looks there is a problem with one of followings \nYour    device date should be current date \nCheck your internet connection speed \nOr \nPlease try     again in few minutes </English></record>
+<record><Stringname>loading_si</Stringname><English>Loading</English></record>
+<record><Stringname>p_agree</Stringname><English>Agreed to T and C</English></record>
+<record><Stringname>upgrade_si</Stringname><English>Upgrade</English></record>
+<record><Stringname>upgrade_title_1_si</Stringname><English>SalesPlay + POS new version is available</English></record>
+<record><Stringname>upgrade_body_si</Stringname><English>Upgrade to the latest version of SalesPlay + POS for Android to experience the best possible version of  SalesPlay + POS. You will have access to new features and    bug fixes to make using SalesPlay + POS better than ever!  </English></record>
+<record><Stringname>up_to_date_body_si</Stringname><English>SalesPlay + POS is updated with latest version</English></record>
+<record><Stringname>not_available_si</Stringname><English>This feature is not available for basic version. Purchase the   advanced version. </English></record>
+<record><Stringname>master_key</Stringname><English>License key</English></record>
+<record><Stringname>product</Stringname><English>Product</English></record>
+<record><Stringname>buy_now_no_internet</Stringname><English>Please check your internet connection</English></record>
+<record><Stringname>about_p</Stringname><English>SalesPlay + POS Application is a sophisticated software application which  facilitates you to manage the inventory, invoicing and many tools you need to run the   business. It comes with comprehensive web portal which is having many reports, indicators   and lot of back office functions.</English></record>
+<record><Stringname>alert_delete_icon_title_si</Stringname><English>Delete Icon</English></record>
+<record><Stringname>alert_icon_delete_msg_si</Stringname><English>Are you sure you want to delete this icon?</English></record>
+<record><Stringname>sub_cat_title</Stringname><English>New sub category</English></record>
+<record><Stringname>sub_cat</Stringname><English>Subcategory</English></record>
+<record><Stringname>alert_delete_sub_cat_title_si</Stringname><English>Delete Sub Category</English></record>
+<record><Stringname>alert_delete_sub_cat_title_si_new</Stringname><English>Delete Subcategory</English></record>
+<record><Stringname>alert_sub_cat_delete_msg_si</Stringname><English>Are you sure you want to delete this sub category?</English></record>
+<record><Stringname>alert_sub_cat_delete_msg_si_new</Stringname><English>Are you sure want to delete subcategory ?</English></record>
+<record><Stringname>msg_sub_cat_sucess</Stringname><English>New Subcategory has been created successfully</English></record>
+<record><Stringname>msg_sub_cat_dublicate</Stringname><English>Duplicate Sub Category</English></record>
+<record><Stringname>reason_reason</Stringname><English>Reason</English></record>
+<record><Stringname>note_note</Stringname><English>Note</English></record>
+<record><Stringname>msg_buy_now_wait</Stringname><English>Please wait you are redirecting to payment gateway</English></record>
+<record><Stringname>msg_buy_now_page_error</Stringname><English>Connection error</English></record>
+<record><Stringname>bluetooth_connection_fail_si</Stringname><English>Problem with the printer, check Bluetooth    connection </English></record>
+<record><Stringname>network_connection_fail_si</Stringname><English>Problem with the printer, check network connection  </English></record>
+<record><Stringname>usb_connection_fail_si</Stringname><English>Problem with the printer, check USB connection</English></record>
+<record><Stringname>sms_si</Stringname><English>SMS</English></record>
+<record><Stringname>send_notification_si</Stringname><English>Send receipt via</English></record>
+<record><Stringname>send_email_notification_si</Stringname><English>Send receipt via Email (Optional)</English></record>
+<record><Stringname>cashier_name_si</Stringname><English>Name</English></record>
+<record><Stringname>cashier_status_si</Stringname><English>Status</English></record>
+<record><Stringname>print_cashier_name_si</Stringname><English>Cashier Name</English></record>
+<record><Stringname>pro_cashier_name</Stringname><English>Name</English></record>
+<record><Stringname>pro_uname</Stringname><English>Username</English></record>
+<record><Stringname>pro_cashier_pw</Stringname><English>Change Password</English></record>
+<record><Stringname>pro_role</Stringname><English>User Role</English></record>
+<record><Stringname>provide_user_password</Stringname><English>Provide password</English></record>
+<record><Stringname>price_colum_date</Stringname><English>Date</English></record>
+<record><Stringname>print</Stringname><English>Print receipt</English></record>
+<record><Stringname>printer_init_err</Stringname><English>printer initialize failed!</English></record>
+<record><Stringname>printer_no_paper</Stringname><English>No paper!</English></record>
+<record><Stringname>printer_printing_failed</Stringname><English>printing failed!</English></record>
+<record><Stringname>campaign_duration</Stringname><English>Duration</English></record>
+<record><Stringname>campaign_title</Stringname><English>Campaign</English></record>
+<record><Stringname>toast_campaign_save</Stringname><English>Campaign has been saved</English></record>
+<record><Stringname>toast_invalid_resolution</Stringname><English>Invalid resolution</English></record>
+<record><Stringname>alert_media_delete_msg_si</Stringname><English>Are you sure you want to delete this image?</English></record>
+<record><Stringname>alert_delete_media_title</Stringname><English>Delete Media</English></record>
+<record><Stringname>campaign</Stringname><English>Campaigns</English></record>
+<record><Stringname>toast_campaign_save_fail</Stringname><English>Enter image duration</English></record>
+<record><Stringname>btn_browse</Stringname><English>Browse</English></record>
+<record><Stringname>campaign_enable_si</Stringname><English>Switch on campaign at software setup</English></record>
+<record><Stringname>insufficient_stock_si</Stringname><English>Insufficient Stock</English></record>
+<record><Stringname>set_pwrd_msg_proceed</Stringname><English>You have to set the admin password before proceeding </English></record>
+<record><Stringname>pro_img_reslution</Stringname><English>Best image resolution : (width x height)150 x 120 (px)</English></record>
+<record><Stringname>pro_img_msg_fail</Stringname><English>Can\'t open file</English></record>
+<record><Stringname>pro_kot_option</Stringname><English>KOT Option</English></record>
+<record><Stringname>pro_ip</Stringname><English>KOT Printer IP</English></record>
+<record><Stringname>pro_display_ip</Stringname><English>KOT Display IP</English></record>
+<record><Stringname>cus_display_ip</Stringname><English>Customer Display IP</English></record>
+<record><Stringname>payment_method</Stringname><English>Payment types</English></record>
+<record><Stringname>reason_title</Stringname><English>Cash Drawer Reasons</English></record>
+<record><Stringname>msg_title_alternative_currency_si</Stringname><English>Select Currency</English></record>
+<record><Stringname>msg_alternative_currency_si</Stringname><English>Select Alternative Currency</English></record>
+<record><Stringname>disable_function_si</Stringname><English>You cannot edit this receipt</English></record>
+<record><Stringname>btn_select_list</Stringname><English>Select from List</English></record>
+<record><Stringname>category_report</Stringname><English>Category Wise Sales Report</English></record>
+<record><Stringname>bis_type_download_product</Stringname><English>Install with sample data</English></record>
+<record><Stringname>title_restore</Stringname><English>Recent Backup Points</English></record>
+<record><Stringname>btn_restore</Stringname><English>Restore</English></record>
+<record><Stringname>kot_no_item</Stringname><English>No item selected to send KOT</English></record>
+<record><Stringname>kot__complete</Stringname><English>Complete the payment for KOT receipt or press discard</English></record>
+<record><Stringname>freeBill__complete</Stringname><English>Complete the payment for pre bill receipt or press discard </English></record>
+<record><Stringname>hold_invoice__complete</Stringname><English>Complete the payment for bill hold receipt or press   discard </English></record>
+<record><Stringname>btn_resend</Stringname><English>Resend</English></record>
+<record><Stringname>print_category_sales</Stringname><English>Category Report</English></record>
+<record><Stringname>kot_description</Stringname><English>Description (optional)</English></record>
+<record><Stringname>in_note_si</Stringname><English>Special Note (Optional)</English></record>
+<record><Stringname>msg_kot_printer_connection_error</Stringname><English>KOT printer connection error</English></record>
+<record><Stringname>inv_prod_inhand</Stringname><English>In Hand Qty</English></record>
+<record><Stringname>inv_prod_tiitle</Stringname><English>Product Details</English></record>
+<record><Stringname>toast_cash_refund</Stringname><English>Cash refund transaction is successful</English></record>
+<record><Stringname>restore</Stringname><English>Restore</English></record>
+<record><Stringname>restore_not_found</Stringname><English>There is no any restore point available</English></record>
+<record><Stringname>msg_title_restore</Stringname><English>Recent Daily Backup Points</English></record>
+<record><Stringname>btn_retry</Stringname><English>Load Again</English></record>
+<record><Stringname>toast_select_item</Stringname><English>Please select item(s)</English></record>
+<record><Stringname>restore_msg_success</Stringname><English>Restore is successful</English></record>
+<record><Stringname>restore_msg_fail</Stringname><English>Restore is unsuccessful</English></record>
+<record><Stringname>cancel_split</Stringname><English>Are you sure you want to cancel all payments?</English></record>
+<record><Stringname>cancel_split_title</Stringname><English>Cancel Payment</English></record>
+<record><Stringname>toast_cash_refund_value_check</Stringname><English>Cash refund is greater than grand total</English></record>
+<record><Stringname>toast_credit_not_value_check</Stringname><English>Credit note value is greater than grand total</English></record>
+<record><Stringname>msg_restore</Stringname><English>Are you sure you want to restore backup</English></record>
+<record><Stringname>msg_restore_processing</Stringname><English>Please wait restore is progressing...</English></record>
+<record><Stringname>revenue_report_type</Stringname><English>Revenue Report Type</English></record>
+<record><Stringname>revenue_total_sales</Stringname><English>Total Sales</English></record>
+<record><Stringname>revenue_total_charge</Stringname><English>Total Charges</English></record>
+<record><Stringname>revenue_total_tax</Stringname><English>Total Tax</English></record>
+<record><Stringname>cash_trans_report_link</Stringname><English>Take me to report</English></record>
+<record><Stringname>cash_report_title</Stringname><English>Cash Report</English></record>
+<record><Stringname>msg_clear_data_fail</Stringname><English>Data Clearing is Fail!</English></record>
+<record><Stringname>master_key_is</Stringname><English>Your license key is</English></record>
+<record><Stringname>add_printer_si</Stringname><English>Add printer</English></record>
+<record><Stringname>printer_name_si</Stringname><English>Printer model</English></record>
+<record><Stringname>printer_type_si</Stringname><English>Printer type</English></record>
+<record><Stringname>printer_connection_mode_si</Stringname><English>Connection mode</English></record>
+<record><Stringname>printer_connection_device_si</Stringname><English>Device</English></record>
+<record><Stringname>printer_enable_si</Stringname><English>Status</English></record>
+<record><Stringname>bluetooth_unsupported_si</Stringname><English>Bluetooth is unsupported by this device</English></record>
+<record><Stringname>device_not_available_si</Stringname><English>No devices to connect</English></record>
+<record><Stringname>msg_title_print_enable</Stringname><English>Enable Printer</English></record>
+<record><Stringname>msg_printer_change</Stringname><English>Are you sure you want to enable the printer?</English></record>
+<record><Stringname>msg_title_print_disable</Stringname><English>Disable Printer</English></record>
+<record><Stringname>msg_printer_disable</Stringname><English>Are you sure you want to disable the printer?</English></record>
+<record><Stringname>printers</Stringname><English>Printers</English></record>
+<record><Stringname>printer_connection_paired_device_si</Stringname><English>Paired Device</English></record>
+<record><Stringname>printer_connection_ip_address_si</Stringname><English>IP address</English></record>
+<record><Stringname>printer_connection_connected_device_si</Stringname><English>Connected device</English></record>
+<record><Stringname>msg_title_print_delete</Stringname><English>Delete Printer</English></record>
+<record><Stringname>msg_printer_delete</Stringname><English>Are you sure you want to delete the printer?</English></record>
+<record><Stringname>software_customization</Stringname><English>Software customization</English></record>
+<record><Stringname>customer_display</Stringname><English>Setup Customer Display</English></record>
+<record><Stringname>msg_data_backup</Stringname><English>Data backup is successful</English></record>
+<record><Stringname>printer_configuration_success</Stringname><English>Printer configuration is successfully completed</English></record>
+<record><Stringname>select_printer_type</Stringname><English>Select connection mode</English></record>
+<record><Stringname>printer_con_fail</Stringname><English>Printer connection error</English></record>
+<record><Stringname>package_access_denied</Stringname><English>Hi there, your trial period is expired and some of the   options are not available, now you have only standard options. Please become a Premium or  Advanced customer view the </English></record>
+<record><Stringname>restore_access_denied</Stringname><English>Restore is not available, please become a premium   customer </English></record>
+<record><Stringname>report_customer_invoice_select</Stringname><English>Please select a customer</English></record>
+<record><Stringname>report_select_cashier</Stringname><English>Please select a cashier</English></record>
+<record><Stringname>report_customer_invoice</Stringname><English>Customer Wise Receipt</English></record>
+<record><Stringname>kot_report_qty</Stringname><English>Qty</English></record>
+<record><Stringname>kot_report_invoice_no</Stringname><English>Receipt No :</English></record>
+<record><Stringname>in_paypal_ref</Stringname><English>PayPal Ref</English></record>
+<record><Stringname>rep_paypal</Stringname><English>PayPal</English></record>
+<record><Stringname>toast_inv_paypal_empty_chk_si</Stringname><English>Please enter paypal reference</English></record>
+<record><Stringname>print_inv_paypal</Stringname><English>PayPal</English></record>
+<record><Stringname>tost_credit_setlement_success</Stringname><English>Credit settlement is successful</English></record>
+<record><Stringname>tost_credit_settlement_cancel</Stringname><English>Credit settlement has been deleted</English></record>
+<record><Stringname>inv_payment_select_creditnote</Stringname><English>Select credit note</English></record>
+<record><Stringname>btn_settle</Stringname><English>Settle</English></record>
+<record><Stringname>tost_credit_setlement_invalit_amount</Stringname><English>Amount higher than receipt credit value </English></record>
+<record><Stringname>btn_complete</Stringname><English>Complete</English></record>
+<record><Stringname>credit_invoice_complte</Stringname><English>Are you sure you want to complete credit receipt?</English></record>
+<record><Stringname>credit_invoice_complte_title</Stringname><English>Complete Credit Receipt</English></record>
+<record><Stringname>day_end_body_si</Stringname><English>This will finalized your all transaction records.</English></record>
+<record><Stringname>day_end_body_si_new</Stringname><English>Are you sure want to complete shift end ?</English></record>
+<record><Stringname>link_more_details</Stringname><English>More Details</English></record>
+<record><Stringname>privacy_policy_si</Stringname><English>Privacy policy</English></record>
+<record><Stringname>day_end_description1_si</Stringname><English>Following details will be recorded</English></record>
+<record><Stringname>link_pricing_now</Stringname><English>purchase now</English></record>
+<record><Stringname>day_end_cancel</Stringname><English>Day end task has been finished, please cancel it to use thismodule.</English></record>
+<record><Stringname>day_end_deleted_title_si</Stringname><English>Cancel Day End</English></record>
+<record><Stringname>day_end_deleted_body_si</Stringname><English>Are you sure you want to cancel the day end?</English></record>
+<record><Stringname>day_end_successfully_deleted_si</Stringname><English>Day end successfully cancelled.</English></record>
+<record><Stringname>day_end_successfully_si</Stringname><English>Done</English></record>
+<record><Stringname>print_inv_dup_discount_short</Stringname><English>Disc.</English></record>
+<record><Stringname>print_total</Stringname><English>Total</English></record>
+<record><Stringname>print_agent</Stringname><English>Agent :</English></record>
+<record><Stringname>print_comment</Stringname><English>Comment</English></record>
+<record><Stringname>toast_complete_credit_inv</Stringname><English>Credit receipt is successfully completed</English></record>
+<record><Stringname>msg_auto_launch</Stringname><English>Auto launch is turn ON.</English></record>
+<record><Stringname>msg_turn_off</Stringname><English>Turn off</English></record>
+<record><Stringname>msg_title_auto_launch</Stringname><English>Auto Launch</English></record>
+<record><Stringname>msg_body_auto_launch</Stringname><English>Are you sure you want to turn off auto launch?</English></record>
+<record><Stringname>msg_auto_launch_turn_off</Stringname><English>Auto launch is turn off.</English></record>
+<record><Stringname>payment_received</Stringname><English>Payment received</English></record>
+<record><Stringname>cr_inv_outstanding</Stringname><English>Receipt outstanding</English></record>
+<record><Stringname>cr_inv_pre_outstanding</Stringname><English>Previous outstanding</English></record>
+<record><Stringname>receipt_amount</Stringname><English>Receipt amount</English></record>
+<record><Stringname>credit_receipt_initial</Stringname><English>Credit Receipt</English></record>
+<record><Stringname>cr_total_outstanding</Stringname><English>Customer Total Outstanding</English></record>
+<record><Stringname>cr_outstanding</Stringname><English>Customer outstanding</English></record>
+<record><Stringname>total_outstanding</Stringname><English>Total outstanding</English></record>
+<record><Stringname>cr_settlement_type</Stringname><English>Settlement Type</English></record>
+<record><Stringname>cr_inv_complete_invoice</Stringname><English>Settled Receipt</English></record>
+<record><Stringname>cr_inv_uncomplete_invoice</Stringname><English>Credit Receipt</English></record>
+<record><Stringname>btn_paid</Stringname><English>Unpaid</English></record>
+<record><Stringname>toast_unpaid_credit_inv</Stringname><English>Receipt is successfully moved to unpaid receipt list </English></record>
+<record><Stringname>credit_invoice_unpaid</Stringname><English>Are you sure you want to move this receipt to unsettled receipt list?</English></record>
+<record><Stringname>pro_day_end</Stringname><English>Shift end module</English></record>
+<record><Stringname>pro_day_end_new</Stringname><English>Shift end </English></record>
+<record><Stringname>day_end_enable</Stringname><English>Please enable day end in software setup</English></record>
+<record><Stringname>cloud_upload_msg_title</Stringname><English>Cloud Upload</English></record>
+<record><Stringname>cr_select_customer</Stringname><English>Please select a customer</English></record>
+<record><Stringname>enter_amount</Stringname><English>Please enter a amount</English></record>
+<record><Stringname>last_update_date</Stringname><English>Last Update date</English></record>
+<record><Stringname>day_end_need</Stringname><English>You need to run day end task before proceed.</English></record>
+<record><Stringname>msg_backup_problem</Stringname><English>Problem with Backup.</English></record>
+<record><Stringname>btn_try_agin</Stringname><English>Try again</English></record>
+<record><Stringname>sync_si</Stringname><English>Sync</English></record>
+<record><Stringname>drawer_open</Stringname><English>Open Drawer</English></record>
+<record><Stringname>quick_sync_si</Stringname><English>Quick sync</English></record>
+<record><Stringname>print_inv_line_discount_si</Stringname><English>Discount</English></record>
+<record><Stringname>chat_helpcenter</Stringname><English>If chat is offline, go to the </English></record>
+<record><Stringname>btn_preview</Stringname><English>Preview</English></record>
+<record><Stringname>bill_view</Stringname><English>Design the Receipt</English></record>
+<record><Stringname>hide_si</Stringname><English>Hide</English></record>
+<record><Stringname>inv_advance_no</Stringname><English>Advance No :</English></record>
+<record><Stringname>inv_advance_invoice_total</Stringname><English>Receipt Total :</English></record>
+<record><Stringname>inv_advance_amount</Stringname><English>Advance payment :</English></record>
+<record><Stringname>inv_advance_delete_title</Stringname><English>Delete Advance</English></record>
+<record><Stringname>toast_inv_payment_type_validate</Stringname><English>This payment type not eligible for advance Payments  </English></record>
+<record><Stringname>toast_sync_problem_si</Stringname><English>Data sync is failed.</English></record>
+<record><Stringname>advance__complete</Stringname><English>Complete the receipt for this advance payment</English></record>
+<record><Stringname>popup_view_advance_invoice</Stringname><English>View Advance Payments</English></record>
+<record><Stringname>popup_advance_invoice</Stringname><English>Advance payment</English></record>
+<record><Stringname>inv_advance_msg_delete</Stringname><English>Do you want to delete this advance payment?</English></record>
+<record><Stringname>view_advance_inv_si</Stringname><English>Advance Payment List</English></record>
+<record><Stringname>print_advance_no</Stringname><English>Advance No</English></record>
+<record><Stringname>inv_advance_customer</Stringname><English>Customer :</English></record>
+<record><Stringname>pro_advance</Stringname><English>Advance payment</English></record>
+<record><Stringname>chat_offline_title</Stringname><English>Chat Service Offline</English></record>
+<record><Stringname>qpp_offline</Stringname><English>Internet connection is not available</English></record>
+<record><Stringname>toast_invalid_date_si</Stringname><English>Invalid date.</English></record>
+<record><Stringname>add_product_not_internet</Stringname><English>Please connect to the internet.Otherwise your product code(SKU) can be replace to the existing products.</English></record>
+<record><Stringname>print_customer_invoice_list_si</Stringname><English>Customer wise Receipt List</English></record>
+<record><Stringname>del_category_with_product</Stringname><English>Remove product(s) under this category as well</English></record>
+<record><Stringname>del_category_move_product</Stringname><English>Product(s) under this category move to \</English></record>
+<record><Stringname>del_sub_category_with_product</Stringname><English>Remove product(s) under this sub category</English></record>
+<record><Stringname>del_sub_category_move_product</Stringname><English>Product(s) under this sub category move to the </English></record>
+<record><Stringname>sub_cat_in_used_si</Stringname><English>This sub category is in used. Sub category will be deleted permanently</English></record>
+<record><Stringname>cat_in_used_si</Stringname><English>This category is in used. Category will be deleted permanently</English></record>
+<record><Stringname>cat_in_used_si_new</Stringname><English>Are you sure want to delete this category?</English></record>
+<record><Stringname>card_details_si</Stringname><English>Card details</English></record>
+<record><Stringname>invalid_card_details_si</Stringname><English>Invalid card details</English></record>
+<record><Stringname>payment_gateway_title</Stringname><English>Payment gateway</English></record>
+<record><Stringname>payment_gateway_name</Stringname><English>Payment gateway</English></record>
+<record><Stringname>payment_gateway_publish_key</Stringname><English>Publishable key</English></record>
+<record><Stringname>payment_gateway_secret_key</Stringname><English>Secret key</English></record>
+<record><Stringname>payment_gateway_status</Stringname><English>Status</English></record>
+<record><Stringname>payment_gateway_common</Stringname><English>Payment gateway</English></record>
+<record><Stringname>toast_payment_gateway_exit</Stringname><English>This payment gateway already setup</English></record>
+<record><Stringname>card_number_si</Stringname><English>Card Number</English></record>
+<record><Stringname>card_exp_month_si</Stringname><English>Month</English></record>
+<record><Stringname>card_exp_year_si</Stringname><English>Year</English></record>
+<record><Stringname>card_cvc_si</Stringname><English>CVC</English></record>
+<record><Stringname>btn_click</Stringname><English>Click Here</English></record>
+<record><Stringname>toast_validate_payment_gateway_currency_si</Stringname><English>Payment gateway currency and default system currency is different. Please do the mapping in payment gateway interface Edit. </English></record>
+<record><Stringname>payment_gateway_system_currency</Stringname><English>System Currency</English></record>
+<record><Stringname>payment_gateway_currency</Stringname><English>Payment Gateway Currency</English></record>
+<record><Stringname>payment_gateway_currency_msg</Stringname><English>Note : Please select the same currency in software   setting </English></record>
+<record><Stringname>offline</Stringname><English>Offline</English></record>
+<record><Stringname>insufficient_point_si</Stringname><English>Insufficient points.</English></record>
+<record><Stringname>btn_print_text</Stringname><English>Test Print</English></record>
+<record><Stringname>clear_note</Stringname><English>Please Note</English></record>
+<record><Stringname>clear_note1</Stringname><English>This function will clear application data of the terminal</English></record>
+<record><Stringname>clear_note2</Stringname><English>If you want to clear data in the back office web portal as well,please login and do it manually</English></record>
+<record><Stringname>toast_validate_password_length</Stringname><English>Password (should contain at least 6 characters) ??</English></record>
+<record><Stringname>validate_password_length</Stringname><English>Field must contain at least 8 characters</English></record>
+<record><Stringname>payment_gateway_currency_details</Stringname><English>Stripe payment gateway Support these  currencies </English></record>
+<record><Stringname>change_pwrd_set_up</Stringname><English>Password has been set up successfully</English></record>
+<record><Stringname>print_inv_temp_no_si</Stringname><English>Receipt Temp #</English></record>
+<record><Stringname>print_inv_point</Stringname><English>Point</English></record>
+<record><Stringname>report_credit_settlement</Stringname><English>Credit Settlement Report</English></record>
+<record><Stringname>settlement_ref_id</Stringname><English>Settlement Ref Id</English></record>
+<record><Stringname>handlingmsg_warn_receipt_near_end</Stringname><English>Roll paper is nearly end.\n</English></record>
+<record><Stringname>handlingmsg_warn_battery_near_end</Stringname><English>Battery level of printer is low.\n</English></record>
+<record><Stringname>printer_paper_size</Stringname><English>Paper size</English></record>
+<record><Stringname>popup_clear_info_si</Stringname><English>Do you want to clear sample records?</English></record>
+<record><Stringname>clear_records_dialog_check_si</Stringname><English>Upload data backup to cloud. Backup will be   available in restore section as well </English></record>
+<record><Stringname>select_business_type</Stringname><English>Select your business type</English></record>
+<record><Stringname>terminal_name</Stringname><English>Select terminal name</English></record>
+<record><Stringname>select_shop</Stringname><English>Select shop</English></record>
+<record><Stringname>reg_msg1</Stringname><English>After the registration you should receive an email to register for back  office web portal. </English></record>
+<record><Stringname>reg_msg2</Stringname><English>If you forget password, please</English></record>
+<record><Stringname>tarminal_name_hint_si</Stringname><English>e.g. Shop 1</English></record>
+<record><Stringname>term_name</Stringname><English>Terminal name</English></record>
+<record><Stringname>paper_size_array</Stringname><English>Terminal name</English></record>
+<record><Stringname>cloud_upload_msg</Stringname><English>Are you sure want to proceed? \nYou need to have internet  connection</English></record>
+<record><Stringname>all_test_rec_clear_si</Stringname><English>This function will clear all sample data. Do you want to continue? </English></record>
+<record><Stringname>business_type</Stringname><English>Business Type</English></record>
+<record><Stringname>prod_stock_control_si</Stringname><English>Maintain Inventory/Stock</English></record>
+<record><Stringname>v_prod_stcontol</Stringname><English>Maintain Stock</English></record>
+<record><Stringname>cash_payment_si</Stringname><English>Cash sale</English></record>
+<record><Stringname>btn_pay_si</Stringname><English>Pay</English></record>
+<record><Stringname>pro_clear_appication_data_from_cloud_si</Stringname><English>Data clearing request received</English></record>
+<record><Stringname>pro_clear_appication_data_from_cloud_msg_si</Stringname><English>Data clearing process is in  progress</English></record>
+<record><Stringname>printers_pair</Stringname><English>Pair the Bluetooth printer with POS device and press \</English></record>
+<record><Stringname>btn_seach_paid</Stringname><English>Search Paired Device</English></record>
+<record><Stringname>login_reset_pw</Stringname><English>You can view the current admin password in back office web portal   - go to terminals and view the admin password </English></record>
+<record><Stringname>login_reset_pw_cashier</Stringname><English>Please contact admin and get the password reset</English></record>
+<record><Stringname>btn_card_si</Stringname><English>Card</English></record>
+<record><Stringname>rec_payment_si</Stringname><English>Received Amount</English></record>
+<record><Stringname>setup_kot_title</Stringname><English>Setup KOT</English></record>
+<record><Stringname>setup_kot_name</Stringname><English>Name</English></record>
+<record><Stringname>kot_setup</Stringname><English>Setup KOT</English></record>
+<record><Stringname>setup_kot_usb_device</Stringname><English>USB device</English></record>
+<record><Stringname>alert_delete_title</Stringname><English>Delete</English></record>
+<record><Stringname>toast_kot_setup_deleted_sucess</Stringname><English>KOT device has been deleted successfully</English></record>
+<record><Stringname>alert_kot_setup_delete_msg_si</Stringname><English>Are you sure you want to delete this KOT device?  </English></record>
+<record><Stringname>toast_kot_setup_success_si</Stringname><English>KOT device saved successfully</English></record>
+<record><Stringname>pro_kot_printer_type</Stringname><English>Connection Mode</English></record>
+<record><Stringname>inv_kot_target</Stringname><English>Target</English></record>
+<record><Stringname>toast_cus_display_success_si</Stringname><English>Customer display saved successfully</English></record>
+<record><Stringname>login_reset_admin_pw</Stringname><English>Reset password</English></record>
+<record><Stringname>reset_title</Stringname><English>Reset Password</English></record>
+<record><Stringname>reset_your_email</Stringname><English>Your Email</English></record>
+<record><Stringname>reset_code</Stringname><English>Code</English></record>
+<record><Stringname>reset_enter_code</Stringname><English>Enter Code</English></record>
+<record><Stringname>toast_reset_invalid_code</Stringname><English>Invalid verification code</English></record>
+<record><Stringname>toast_reset_code_expire</Stringname><English>Your verification code has been expired</English></record>
+<record><Stringname>toast_reset_code_no_email</Stringname><English>Email is required to rest the password</English></record>
+<record><Stringname>btn_send</Stringname><English>Send</English></record>
+<record><Stringname>more_details</Stringname><English>More Details</English></record>
+<record><Stringname>reset_title_send</Stringname><English>Send Verification Code</English></record>
+<record><Stringname>reset_title_enter</Stringname><English>Enter Verification Code</English></record>
+<record><Stringname>inv_discount_not_allow</Stringname><English>This user is not allowed to offer discounts</English></record>
+<record><Stringname>exp_msg_title</Stringname><English>Expire</English></record>
+<record><Stringname>no_sale</Stringname><English>Empty Cart</English></record>
+<record><Stringname>item_cart</Stringname><English>Item Cart</English></record>
+<record><Stringname>printer_ip</Stringname><English>Printer IP</English></record>
+<record><Stringname>receipt_view</Stringname><English>Receipt</English></record>
+<record><Stringname>create_restore_point</Stringname><English>Create a restore point</English></record>
+<record><Stringname>split</Stringname><English>Split</English></record>
+<record><Stringname>charge</Stringname><English>CHARGE</English></record>
+<record><Stringname>charge_simple</Stringname><English>Charge</English></record>
+<record><Stringname>paid</Stringname><English>Paid</English></record>
+<record><Stringname>prod_sub_cat</Stringname><English>Filter by sub category</English></record>
+<record><Stringname>print_inv_amount_due_si</Stringname><English>Amount due</English></record>
+<record><Stringname>delete_payment</Stringname><English>Delete payment</English></record>
+<record><Stringname>delete_payment_body</Stringname><English>Are you sure you want to delete this payment?</English></record>
+<record><Stringname>icon_date_pick</Stringname><English>\uf1de</English></record>
+<record><Stringname>icon_arrow_up</Stringname><English>\uf0d8</English></record>
+<record><Stringname>icon_arrow_down</Stringname><English>\uf0dd</English></record>
+<record><Stringname>icon_arrow_back</Stringname><English>\uf060</English></record>
+<record><Stringname>icon_back_new</Stringname><English>\uf060</English></record>
+<record><Stringname>icon_done</Stringname><English>\uf058</English></record>
+<record><Stringname>done</Stringname><English>Done</English></record>
+<record><Stringname>select_price</Stringname><English>Select Price</English></record>
+<record><Stringname>in_hand_qty</Stringname><English>In hand QTY</English></record>
+<record><Stringname>unit_price_inhand</Stringname><English>Unit Price</English></record>
+<record><Stringname>pair_bluetooth</Stringname><English>Your device is not connected to the Bluetooth printer, pair the  device </English></record>
+<record><Stringname>pair_bluetooth_1</Stringname><English>Your device is not connected to the Bluetooth printer,or If it is paired Try with another printer model </English></record>
+<record><Stringname>pair_usb</Stringname><English>Your device is not connected to the USB printer, Connected the device</English></record>
+<record><Stringname>pair_usb_1</Stringname><English>Your device is not connected to the USB printer,or If it is connected  Try with another printer model</English></record>
+<record><Stringname>change_product_img</Stringname><English>Change Image Icon</English></record>
+<record><Stringname>add_product_img</Stringname><English>Add Image Icon</English></record>
+<record><Stringname>image_change_message</Stringname><English>Are you sure you want to change the image?</English></record>
+<record><Stringname>image_add_message</Stringname><English>Are you sure you want to add this image?</English></record>
+<record><Stringname>charges_name</Stringname><English>Charges Name</English></record>
+<record><Stringname>value</Stringname><English>Value</English></record>
+<record><Stringname>apply</Stringname><English>Apply</English></record>
+<record><Stringname>select_printer</Stringname><English>Select Printer Model</English></record>
+<record><Stringname>orientation_si</Stringname><English>Orientation</English></record>
+<record><Stringname>invaild_email</Stringname><English>Invalid email address</English></record>
+<record><Stringname>unsynced</Stringname><English>unsynced</English></record>
+<record><Stringname>resend_email</Stringname><English>Resend Email</English></record>
+<record><Stringname>resend_email_ti</Stringname><English>Resend Email Receipt</English></record>
+<record><Stringname>creat_products</Stringname><English>Products</English></record>
+<record><Stringname>start_new_sale</Stringname><English>Start New Sale</English></record>
+<record><Stringname>receipt_summary</Stringname><English>Receipt summary</English></record>
+<record><Stringname>barcode_not_added</Stringname><English>No Product or Initial Stock Available</English></record>
+<record><Stringname>more_si</Stringname><English>More</English></record>
+<record><Stringname>composite_items_si</Stringname><English>Composite Products</English></record>
+<record><Stringname>create_addon_si</Stringname><English>Create Addons</English></record>
+<record><Stringname>enable_option</Stringname><English>Enable following options</English></record>
+<record><Stringname>select_kot_notes</Stringname><English>Select KOT notes</English></record>
+<record><Stringname>sold_qty</Stringname><English>Sold QTY</English></record>
+<record><Stringname>select_item</Stringname><English>Select Product (s)</English></record>
+<record><Stringname>msg_add_product</Stringname><English>Add products first</English></record>
+<record><Stringname>registration_si</Stringname><English>Registration</English></record>
+<record><Stringname>sign_in_si</Stringname><English>Sign In</English></record>
+<record><Stringname>terms_condition</Stringname><English>I understand and agree to SalesPlay + POS Terms of Use and Privacy Policy.</English></record>
+<record><Stringname>add_composite_item</Stringname><English>Add item(s) for composite product using web portal</English></record>
+<record><Stringname>add_new_si</Stringname><English>Add new</English></record>
+<record><Stringname>add_default_list_si</Stringname><English>Added to default List</English></record>
+<record><Stringname>remove_default_list_si</Stringname><English>Removed from default List</English></record>
+<record><Stringname>daily_sales_summary_si</Stringname><English>Daily Sales Summary</English></record>
+<record><Stringname>sales_summary_si</Stringname><English>Sales summary</English></record>
+<record><Stringname>my_profile_si</Stringname><English>My Profile</English></record>
+<record><Stringname>help_center_si</Stringname><English>Help Center</English></record>
+<record><Stringname>chat_on_off_si</Stringname><English>Chat (On/Off)</English></record>
+<record><Stringname>dra_create_receipts_si</Stringname><English>New Sale</English></record>
+<record><Stringname>dra_sales_si</Stringname><English>Manage Sales</English></record>
+<record><Stringname>dra_products_si</Stringname><English>Products</English></record>
+<record><Stringname>dra_reports_si</Stringname><English>Reports</English></record>
+<record><Stringname>dra_settings_si</Stringname><English>Settings</English></record>
+<record><Stringname>dra_backup_and_restore_si</Stringname><English>Backup and Restore</English></record>
+<record><Stringname>dra_back_office_si</Stringname><English>Back Office</English></record>
+<record><Stringname>dra_payment_gateway_si</Stringname><English>Payment Gateway</English></record>
+<record><Stringname>dra_software_activation_si</Stringname><English>Software Activation</English></record>
+<record><Stringname>dra_purchase_sw_si</Stringname><English>Purchase Software</English></record>
+<record><Stringname>dra_check_update_si</Stringname><English>Check for Update</English></record>
+<record><Stringname>dra_privacy_policy_si</Stringname><English>Privacy policy</English></record>
+<record><Stringname>printing_toast_si</Stringname><English>Printing,Please wait...</English></record>
+<record><Stringname>please_wait_si</Stringname><English>Please wait...</English></record>
+<record><Stringname>hide_details_si</Stringname><English>Hide Details</English></record>
+<record><Stringname>view_si</Stringname><English>VIEW</English></record>
+<record><Stringname>menu_si</Stringname><English>Menu</English></record>
+<record><Stringname>status_si</Stringname><English>Status</English></record>
+<record><Stringname>employee_name</Stringname><English>Employee : </English></record>
+<record><Stringname>no_internet</Stringname><English>You don\'t have internet connection </English></record>
+<record><Stringname>registration_sucess</Stringname><English>Registration successful! </English></record>
+<record><Stringname>registration_u_sucess</Stringname><English>Registration unsuccessful! </English></record>
+<record><Stringname>cus_name</Stringname><English>Customer : </English></record>
+<record><Stringname>duplicate_receipt_si</Stringname><English>Duplicate Receipt</English></record>
+<record><Stringname>install_whatapp</Stringname><English>Please Install WhatsApp</English></record>
+<record><Stringname>install_viber</Stringname><English>Please Install viber</English></record>
+<record><Stringname>install_twitter</Stringname><English>Please Install twitter</English></record>
+<record><Stringname>dine_in</Stringname><English>DINE IN </English></record>
+<record><Stringname>takeaway</Stringname><English>TAKEAWAY </English></record>
+<record><Stringname>delivery</Stringname><English>DELIVERY </English></record>
+<record><Stringname>image_hint</Stringname><English>(Ideal size : width = 399 pixels, height = 200 pixels)</English></record>
+<record><Stringname>select_usb_device</Stringname><English>Select USB Device</English></record>
+<record><Stringname>tax_invoice</Stringname><English>TAX INVOICE</English></record>
+<record><Stringname>tax_reg_no</Stringname><English>VAT RegNo. :</English></record>
+<record><Stringname>add_queue_body</Stringname><English>If you want to setup a display, login to back office web portal and create it. Go to More -- Setup -- Manage queue. Anyway the queue number is printed on the bill. </English></record>
+<record><Stringname>lang_change_confrim</Stringname><English>Language Changes will apply after restart the App.Do you want to proceed ?</English></record>
+<record><Stringname>lan_change</Stringname><English>Language Change</English></record>
+<record><Stringname>display_dialog_body</Stringname><English>Please use web portal to create KOT Display </English></record>
+<record><Stringname>display_kot_titel</Stringname><English>KOT Display </English></record>
+<record><Stringname>transfer_qty</Stringname><English>Transfer Qty</English></record>
+<record><Stringname>final_grand_total</Stringname><English>FINAL GRAND TOTAL</English></record>
+<record><Stringname>select_customer_cr_invoice</Stringname><English>Select customer for credit invoice</English></record>
+<record><Stringname>advance_payment_credit_not_allowed</Stringname><English>Credit payment does not allowed for advance payment</English></record>
+<record><Stringname>print_inv_cr_no_si</Stringname><English>CR #</English></record>
+<record><Stringname>print_inv_total_cr_si</Stringname><English>REFUND AMOUNT</English></record>
+<record><Stringname>popup_view_create_order_si</Stringname><English>Create customer orders</English></record>
+<record><Stringname>invoice_order_body_si</Stringname><English>Do you want to create this order?</English></record>
+<record><Stringname>sales_play_app</Stringname><English>Apps</English></record>
+<record><Stringname>cancel_hold_si</Stringname><English>Cancel Hold Receipt</English></record>
+<record><Stringname>cash_drawer_tran_title</Stringname><English>Drawer transaction</English></record>
+<record><Stringname>purchase_key_dec</Stringname><English>If you do not have a key,</English></record>
+<record><Stringname>notification_channel_id</Stringname><English> translatable=</English></record>
+<record><Stringname>click_again_exit</Stringname><English>Click again to exit</English></record>
+<record><Stringname>no_permission</Stringname><English>You have not permission to perform this actions.</English></record>
+<record><Stringname>use_back_office</Stringname><English>Use backoffice web portal to perform this action.</English></record>
+<record><Stringname>price_overright</Stringname><English>Unit Price</English></record>
+<record><Stringname>to_go</Stringname><English>To Go</English></record>
+<record><Stringname>edit_modi</Stringname><English>Edit Modifier</English></record>
+<record><Stringname>add_modi</Stringname><English>Add Modifier</English></record>
+<record><Stringname>remark</Stringname><English>Remark</English></record>
+<record><Stringname>delete_item</Stringname><English>Delete Item</English></record>
+<record><Stringname>search_view_hint</Stringname><English>Search</English></record>
+<record><Stringname>fa_search</Stringname><English>\uf002</English></record>
+<record><Stringname>search_hint</Stringname><English>Search All Items</English></record>
+<record><Stringname>search_hint_table</Stringname><English>Search All Tables</English></record>
+<record><Stringname>cap_save</Stringname><English>SAVE</English></record>
+<record><Stringname>credit_note</Stringname><English>Credit note</English></record>
+<record><Stringname>search_credit_note</Stringname><English>Search credit note</English></record>
+<record><Stringname>pending_receipts</Stringname><English>Open receipts</English></record>
+<record><Stringname>state_province_region</Stringname><English>State/Province/Region</English></record>
+<record><Stringname>stock_tranfer_msg</Stringname><English>Stock Transfer successfully completed</English></record>
+<record><Stringname>inv_added_to_list_si</Stringname><English>Stock Added to List </English></record>
+<record><Stringname>past_invoices</Stringname><English>Past receipts</English></record>
+<record><Stringname>function_txt</Stringname><English>Functions</English></record>
+<record><Stringname>discout_mes</Stringname><English>Discount value can\'t exceed item price</English></record>
+<record><Stringname>order_types</Stringname><English>Order types</English></record>
+<record><Stringname>continue_si</Stringname><English>Continue</English></record>
+<record><Stringname>clear_si</Stringname><English>Clear</English></record>
+<record><Stringname>Submit_si</Stringname><English>Submit</English></record>
+<record><Stringname>proceed</Stringname><English>Proceed</English></record>
+<record><Stringname>resore_warning_msg</Stringname><English>Please Note . Use this function carefully as some of your data may lose !</English></record>
+<record><Stringname>this_field_req</Stringname><English>This field is required</English></record>
+<record><Stringname>this_field_cannot_blank</Stringname><English>This field cannot be blank</English></record>
+<record><Stringname>this_field_should_be_greater_zero</Stringname><English>This field should be greater than zero.</English></record>
+<record><Stringname>email_invalid</Stringname><English>Enter a valid email</English></record>
+<record><Stringname>combo_items_es</Stringname><English>Combo Items</English></record>
+<record><Stringname>inv_line_total</Stringname><English>Line Total</English></record>
+<record><Stringname>pending_orders_title</Stringname><English>View pending orders</English></record>
+<record><Stringname>phone_number_already_exist</Stringname><English>Phone number already exist</English></record>
+<record><Stringname>email_already_exist</Stringname><English>Email already exist</English></record>
+<record><Stringname>internet_required</Stringname><English>Internet connection is required</English></record>
+<record><Stringname>no_credit_note_found</Stringname><English>No credit note found</English></record>
+<record><Stringname>no_cash_found</Stringname><English>No cash refund found</English></record>
+<record><Stringname>no_receipt_found</Stringname><English>No receipt found</English></record>
+<record><Stringname>tag_written_success</Stringname><English>NFC card has been registered</English></record>
+<record><Stringname>tag_written_failed</Stringname><English>NFC card registration failed</English></record>
+<record><Stringname>tag_size_exceed</Stringname><English>ID number is too long</English></record>
+<record><Stringname>please_tap_nfc_tag</Stringname><English>Please tap the NFC card </English></record>
+<record><Stringname>add_to_order</Stringname><English>ADD TO ORDER</English></record>
+<record><Stringname>inv_pre_bill_msg_delete</Stringname><English>Do you want to delete this pre bill?</English></record>
+<record><Stringname>inv_pre_bill_delete_title</Stringname><English>Delete Pre Bill</English></record>
+<record><Stringname>print_due_date_si</Stringname><English>Due date</English></record>
+<record><Stringname>on_this_hour</Stringname><English>On this hour</English></record>
+<record><Stringname>toast_costomer_not_found_si</Stringname><English>Customer is not found</English></record>
+<record><Stringname>popup_view_update_order_si</Stringname><English>Update Manual Orders</English></record>
+<record><Stringname>extra_device_add</Stringname><English>Extra Device</English></record>
+<record><Stringname>select_weight_scale</Stringname><English>Weight Scale</English></record>
+<record><Stringname>select_device</Stringname><English>Select Device</English></record>
+<record><Stringname>data_save_successfully</Stringname><English>Data saved successfully</English></record>
+<record><Stringname>data_save_error</Stringname><English>Data saved error</English></record>
+<record><Stringname>customer_wise</Stringname><English>Customer Wise</English></record>
+<record><Stringname>employee_wise</Stringname><English>Employee Wise</English></record>
+<record><Stringname>extra_bluetooth</Stringname><English>Bluetooth</English></record>
+<record><Stringname>extra_na</Stringname><English>N/A</English></record>
+<record><Stringname>msg_title_extra_device_enable</Stringname><English>Enable Device</English></record>
+<record><Stringname>msg_extra_device_disable</Stringname><English>Are you sure you want to disable the device?</English></record>
+<record><Stringname>msg_extra_device_enable</Stringname><English>Are you sure you want to enable the device?</English></record>
+<record><Stringname>msg_title_delete_extra_device</Stringname><English>Delete Device</English></record>
+<record><Stringname>msg_body_delete_extra_device</Stringname><English>Are you sure you want to delete the device?</English></record>
+<record><Stringname>fa_kot</Stringname><English>\uf0f4</English></record>
+<record><Stringname>fa_advance</Stringname><English>\uf022</English></record>
+<record><Stringname>fa_hold</Stringname><English>\uf08d</English></record>
+<record><Stringname>fa_cus_order</Stringname><English>\uf15c</English></record>
+<record><Stringname>receipt_invoice_si</Stringname><English> Receipts</English></record>
+<record><Stringname>orders_b</Stringname><English>ORDERS</English></record>
+<record><Stringname>kot_b</Stringname><English>KOT</English></record>
+<record><Stringname>hold_b</Stringname><English>HOLD</English></record>
+<record><Stringname>pre_bill_b</Stringname><English>PRE BILL</English></record>
+<record><Stringname>advance_b</Stringname><English>ADVANCE</English></record>
+<record><Stringname>reservation</Stringname><English>RESERVATION</English></record>
+<record><Stringname>appointment_b</Stringname><English>APPOINTMENTS</English></record>
+<record><Stringname>book_appoinment</Stringname><English>Book Appointment</English></record>
+<record><Stringname>view_appoinment</Stringname><English>View Appointments</English></record>
+<record><Stringname>update_appoinment</Stringname><English>Update Appointment</English></record>
+<record><Stringname>order_count</Stringname><English>Order Count</English></record>
+<record><Stringname>appointment_count</Stringname><English>Appointment Count</English></record>
+<record><Stringname>on_this_day</Stringname><English>On this day</English></record>
+<record><Stringname>customer_appointment</Stringname><English>Customer Appointment</English></record>
+<record><Stringname>advance_receipts</Stringname><English>Advance Receipts</English></record>
+<record><Stringname>hold_receipts</Stringname><English>Hold Receipts</English></record>
+<record><Stringname>kot_receipts</Stringname><English>Kot Receipts</English></record>
+<record><Stringname>appointment_no</Stringname><English>Appointment #:</English></record>
+<record><Stringname>order_no</Stringname><English>Order #:</English></record>
+<record><Stringname>appointment_number</Stringname><English>Appointment No</English></record>
+<record><Stringname>no_appointment</Stringname><English>No Appointments</English></record>
+<record><Stringname>no_orders</Stringname><English>No pending orders found!</English></record>
+<record><Stringname>cus_dis_dialog_body</Stringname><English>Please use web portal to create customer display </English></record>
+<record><Stringname>assigned_employee</Stringname><English>Assigned Employee : </English></record>
+<record><Stringname>select_strat_time</Stringname><English>Select Start Time</English></record>
+<record><Stringname>select_end_time</Stringname><English>Select Duration (DD:HH)</English></record>
+<record><Stringname>book_appoiment_confirm_msg</Stringname><English>Do you want to create this appointment?</English></record>
+<record><Stringname>create_reservation_confirm_msg</Stringname><English>Are you sure want to create this reservation ?</English></record>
+<record><Stringname>add_to_apoinment</Stringname><English>ADD</English></record>
+<record><Stringname>due_amount</Stringname><English>Due amount</English></record>
+<record><Stringname>ti_opening_balance</Stringname><English>Opening Balance</English></record>
+<record><Stringname>ti_opening_balance_new</Stringname><English>Open Shift</English></record>
+<record><Stringname>body_opening_balance</Stringname><English>Please enter opening balance here</English></record>
+<record><Stringname>body_opening_balance_new</Stringname><English>Enter shift opening amount</English></record>
+<record><Stringname>body_opening_balance_new_hint</Stringname><English>Amount</English></record>
+<record><Stringname>body_opening_balance_new_open_shift</Stringname><English>OPEN SHIFT</English></record>
+<record><Stringname>title_addon_qty</Stringname><English>Modifier</English></record>
+<record><Stringname>addon_qty_body</Stringname><English>Enter modifier quantity</English></record>
+<record><Stringname>tax_and_charges</Stringname><English>Tax and charges</English></record>
+<record><Stringname>empty_field</Stringname><English>Empty field</English></record>
+<record><Stringname>add_pickup_person</Stringname><English>Add pickup person</English></record>
+<record><Stringname>nic_number</Stringname><English>NIC number</English></record>
+<record><Stringname>add_pickup_details</Stringname><English>Add pickup details</English></record>
+<record><Stringname>advance_payments</Stringname><English>Advance payments</English></record>
+<record><Stringname>advance</Stringname><English>Advance</English></record>
+<record><Stringname>outstanding_creditors_re_si</Stringname><English>Creditors Report</English></record>
+<record><Stringname>cr_outstanding_amout_si</Stringname><English>Outstanding : </English></record>
+<record><Stringname>receipt_note</Stringname><English>Receipt Note </English></record>
+<record><Stringname>toast_inv_note_body_si</Stringname><English>Please enter receipt note</English></record>
+<record><Stringname>toast_inv_note_si</Stringname><English>Receipt Note</English></record>
+<record><Stringname>skip_si</Stringname><English>Skip</English></record>
+<record><Stringname>ready_order</Stringname><English>Order</English></record>
+<record><Stringname>ready_order_body</Stringname><English>Do you want to ready this order?</English></record>
+<record><Stringname>payment_complet_titile</Stringname><English>Payment completed</English></record>
+<record><Stringname>payment_complet_body</Stringname><English>Please press \'Done\' to finish the receipt</English></record>
+<record><Stringname>bill_complete_body</Stringname><English>Do you want to complete this order?</English></record>
+<record><Stringname>contact_service_provider</Stringname><English>Please contact</English></record>
+<record><Stringname>have_key_si</Stringname><English>Already have a license key</English></record>
+<record><Stringname>all_table</Stringname><English>All</English></record>
+<record><Stringname>select_table</Stringname><English>Reserved</English></record>
+<record><Stringname>available_cash_amount</Stringname><English> Available cash amount :</English></record>
+<record><Stringname>select_date</Stringname><English> Select Date</English></record>
+<record><Stringname>daily_sales</Stringname><English> Daily Sales</English></record>
+<record><Stringname>confirm_order_body</Stringname><English>Do you want to confirm this order?</English></record>
+<record><Stringname>kot_edit_disable_body</Stringname><English>You cannot edit this kot item. Do you want to delete it?</English></record>
+<record><Stringname>hold_edit_disable_body</Stringname><English>You cannot edit this hold item. Do you want to delete it?</English></record>
+<record><Stringname>hold_edit_disable_body_new</Stringname><English>You can\'t edit this product,</English></record>
+<record><Stringname>hold_edit_disable_body_new_sub</Stringname><English>Are you sure want to delete this product from receipt?</English></record>
+<record><Stringname>manage_local_data</Stringname><English>Manage Local data</English></record>
+<record><Stringname>your_store_is_empty</Stringname><English>Your shop is empty</English></record>
+<record><Stringname>open_bill</Stringname><English>Open Bills</English></record>
+<record><Stringname>scan_your_product_barcode</Stringname><English>Scan your product barcode</English></record>
+<record><Stringname>tables_si</Stringname><English>Reserve</English></record>
+<record><Stringname>select_items</Stringname><English>Select Items</English></record>
+<record><Stringname>view_past_cash_refunds</Stringname><English>Past Cash Refunds / Credit Note</English></record>
+<record><Stringname>past_resipts</Stringname><English>Past receipts</English></record>
+<record><Stringname>search_past_resipts</Stringname><English>Search past receipts</English></record>
+<record><Stringname>exceed_limit</Stringname><English>Exceed limit</English></record>
+<record><Stringname>ecommerce_order</Stringname><English>E-commerce Orders</English></record>
+<record><Stringname>tablet_order</Stringname><English>Tablet Orders</English></record>
+<record><Stringname>select_schedule_date</Stringname><English>Select schedule date</English></record>
+<record><Stringname>pending_queue</Stringname><English>Pending Queue</English></record>
+<record><Stringname>pending_customer_orders</Stringname><English>Pending Customer Orders</English></record>
+<record><Stringname>pending_tablet_orders</Stringname><English>Pending Tablet Orders</English></record>
+<record><Stringname>pending_ecommerce_orders</Stringname><English>Pending E-commerce Orders</English></record>
+<record><Stringname>no_open_receipts</Stringname><English>No open receipts found !</English></record>
+<record><Stringname>add_new_terminal</Stringname><English>Add New Terminal</English></record>
+<record><Stringname>replace_terminal</Stringname><English>Replace Terminal</English></record>
+<record><Stringname>starting_cash</Stringname><English>Starting cash</English></record>
+<record><Stringname>paid_in</Stringname><English>Paid in</English></record>
+<record><Stringname>paid_out</Stringname><English>Paid out</English></record>
+<record><Stringname>expected_cash_amount_in_drawer</Stringname><English>Expected cash amount</English></record>
+<record><Stringname>taxes</Stringname><English>Taxes</English></record>
+<record><Stringname>charges</Stringname><English>Charges</English></record>
+<record><Stringname>cash_management</Stringname><English>Cash management</English></record>
+<record><Stringname>gross_sales</Stringname><English>Gross sales</English></record>
+<record><Stringname>net_sales</Stringname><English>Net sales</English></record>
+<record><Stringname>pay_out</Stringname><English>Pay out</English></record>
+<record><Stringname>pay_in</Stringname><English>Pay in</English></record>
+<record><Stringname>actual_cash_amount</Stringname><English>Actual cash amount</English></record>
+<record><Stringname>difference</Stringname><English>Difference</English></record>
+<record><Stringname>print_report</Stringname><English>Print report</English></record>
+<record><Stringname>enter_the_next_day_starting_cash_amount</Stringname><English>Enter the next day starting cash amount</English></record>
+<record><Stringname>expected_cash_amount</Stringname><English>Expected cash amount</English></record>
+<record><Stringname>cash_drawer</Stringname><English>Cash drawer</English></record>
+<record><Stringname>refunds</Stringname><English>Refunds</English></record>
+<record><Stringname>refund</Stringname><English>Refund</English></record>
+<record><Stringname>discounts</Stringname><English>Discounts</English></record>
+<record><Stringname>shift_is_closed</Stringname><English>Shift is closed</English></record>
+<record><Stringname>shift_is_closed_body</Stringname><English>Open shift to continue</English></record>
+<record><Stringname>shift_is_closed_body_start</Stringname><English>Start shift to continue</English></record>
+<record><Stringname>explore_more_features_in_backoffice</Stringname><English>Explore more features in backoffice</English></record>
+<record><Stringname>starting_cash_amount</Stringname><English>Starting cash amount</English></record>
+<record><Stringname>pay_in_pay_out</Stringname><English>Pay in/Pay out</English></record>
+<record><Stringname>update_terminal</Stringname><English> Please update your terminal into latest version</English></record>
+<record><Stringname>payment_type_wise_sale</Stringname><English>Payment type wise sale</English></record>
+<record><Stringname>total_tendered</Stringname><English>Total tendered</English></record>
+<record><Stringname>advance_payment</Stringname><English>Advance payment</English></record>
+<record><Stringname>app_key_change_msg</Stringname><English>Terminal data has been moved to the new device. Check your new device to see how it is.</English></record>
+<record><Stringname>cash_credit_settlement</Stringname><English>Cash credit settlements</English></record>
+<record><Stringname>shift_status_report</Stringname><English>Shift Status Report</English></record>
+<record><Stringname>shift_opened_by</Stringname><English>Shift opened by: </English></record>
+<record><Stringname>shift_closed_by</Stringname><English>Shift closed by: </English></record>
+<record><Stringname>getting_ready</Stringname><English>Getting SalesPlay POS ready</English></record>
+<record><Stringname>dont_turn_off</Stringname><English>Don\'t turn off your device</English></record>
+<record><Stringname>complete</Stringname><English>Complete</English></record>
+<record><Stringname>settlement_history</Stringname><English>Settlement history</English></record>
+<record><Stringname>reuse_terminal</Stringname><English>Reuse Terminal</English></record>
+<record><Stringname>customer_credit_settlement_history</Stringname><English>Customer Credit Settlement History</English></record>
+<record><Stringname>receipts_number</Stringname><English>Receipt Id</English></record>
+<record><Stringname>printed_by</Stringname><English>Printed By</English></record>
+<record><Stringname>terminal_informations</Stringname><English>Terminal Information</English></record>
+<record><Stringname>create_new</Stringname><English>Create New</English></record>
+<record><Stringname>reserve</Stringname><English>Reserve</English></record>
+<record><Stringname>assign_table_room</Stringname><English>Table / Room</English></record>
+<record><Stringname>replace_ins</Stringname><English>Use this option to replace your existing POS data into this terminal.</English></record>
+<record><Stringname>add_ins</Stringname><English>Use this option to add new POS terminal into your shop.</English></record>
+<record><Stringname>order_complete_body</Stringname><English>There is an ongoing order with %s. Do you want to complete it?</English></record>
+<record><Stringname>order_update_body</Stringname><English>There is an ongoing order with %s. Do you want to update it?</English></record>
+<record><Stringname>thank_you_for_register</Stringname><English>Thank you for registering!</English></record>
+<record><Stringname>email_confirm_body</Stringname><English>The confirmation email has been sent to </English></record>
+<record><Stringname>email_confirm_sub_body</Stringname><English>If you don\'t see the email, check in \</English></record>
+<record><Stringname>pwd_validate</Stringname><English>Password can’t start or end with a blank space</English></record>
+<record><Stringname>expire_date</Stringname><English>Expiry Date</English></record>
+<record><Stringname>replace_confirm_title</Stringname><English>This POS terminal has been already connected with a device</English></record>
+<record><Stringname>replace_confirm_msg</Stringname><English>Are you sure want to log in to this terminal?</English></record>
+<record><Stringname>replace_confirm_des</Stringname><English>This action will be blocked access to your \nold device</English></record>
+<record><Stringname>btn_login</Stringname><English>LOGIN</English></record>
+<record><Stringname>cost</Stringname><English>Cost</English></record>
+<record><Stringname>date</Stringname><English>Date</English></record>
+<record><Stringname>supplier</Stringname><English>Supplier</English></record>
+<record><Stringname>select_supplier</Stringname><English>Select supplier</English></record>
+<record><Stringname>create_order</Stringname><English>Create Order</English></record>
+<record><Stringname>create_reservation</Stringname><English>Create reservation</English></record>
+<record><Stringname>save_receipt</Stringname><English>Save Receipt</English></record>
+<record><Stringname>save_receipt_dialog_title</Stringname><English>Save Receipt</English></record>
+<record><Stringname>save_receipt_dialog_msg</Stringname><English>Do you want to save this receipt?</English></record>
+<record><Stringname>save_receipt_dialog_msg_new</Stringname><English>Are you sure want to save this receipt?</English></record>
+<record><Stringname>end_time</Stringname><English>End Time</English></record>
+<record><Stringname>reservation_title</Stringname><English>Reservation</English></record>
+<record><Stringname>check_in</Stringname><English>Check In</English></record>
+<record><Stringname>check_out</Stringname><English>Check Out</English></record>
+<record><Stringname>whole_day</Stringname><English>All-day</English></record>
+<record><Stringname>not_define</Stringname><English>Not define</English></record>
+<record><Stringname>select_checkout_date</Stringname><English>Select date </English></record>
+<record><Stringname>select_checkout_time</Stringname><English>time </English></record>
+<record><Stringname>settlement_print_body</Stringname><English>Do you want to print a receipt for this settlement?</English></record>
+<record><Stringname>view_list</Stringname><English>VIEW LIST</English></record>
+<record><Stringname>add_to_list</Stringname><English>ADD TO LIST</English></record>
+<record><Stringname>update_to_list</Stringname><English>UPDATE LIST</English></record>
+<record><Stringname>quantity</Stringname><English>Quantity</English></record>
+<record><Stringname>adjust_quantity</Stringname><English>Quantity to adjust</English></record>
+<record><Stringname>amount</Stringname><English>Amount</English></record>
+<record><Stringname>created_by</Stringname><English>Created By</English></record>
+<record><Stringname>view_sa</Stringname><English>SA View</English></record>
+<record><Stringname>current_stock</Stringname><English>Current Stock</English></record>
+<record><Stringname>new_stock</Stringname><English>New Stock</English></record>
+<record><Stringname>to_shop</Stringname><English>To shop</English></record>
+<record><Stringname>from_shop_name</Stringname><English>From Shop</English></record>
+<record><Stringname>to_shop_name</Stringname><English>To shop</English></record>
+<record><Stringname>type</Stringname><English>Type</English></record>
+<record><Stringname>stock_transfer</Stringname><English>Transfer of goods</English></record>
+<record><Stringname>schedule_date</Stringname><English>Schedule Date</English></record>
+<record><Stringname>btn_save</Stringname><English>SAVE</English></record>
+<record><Stringname>cost_filed_empty</Stringname><English>Cost is not defined</English></record>
+<record><Stringname>quantity_filed_empty</Stringname><English>Quantity is not defined</English></record>
+<record><Stringname>product_not_selected</Stringname><English>Product is not selected</English></record>
+<record><Stringname>location_not_selected</Stringname><English>Location is not selected</English></record>
+<record><Stringname>supplier_is_not_selected</Stringname><English>Supplier is not selected</English></record>
+<record><Stringname>date_field_empty</Stringname><English>Date is not selected</English></record>
+<record><Stringname>exp_date_not_selected</Stringname><English>Expiry Date is not selected</English></record>
+<record><Stringname>payment_type_not_selected</Stringname><English>Payment Type is not selected</English></record>
+<record><Stringname>terminal_not_selecting</Stringname><English>Please select a terminal</English></record>
+<record><Stringname>shop_not_selected</Stringname><English>Please select a shop</English></record>
+<record><Stringname>enable_your_shop_to_add_new_terminal</Stringname><English>Please enable your shop to add new terminal</English></record>
+<record><Stringname>you_have_not_added_any_product</Stringname><English>You have not added any product(s) yet.</English></record>
+<record><Stringname>select_product_hint</Stringname><English>Select product</English></record>
+<record><Stringname>filter_by_category</Stringname><English>Filter by category</English></record>
+<record><Stringname>in_unsaved_changes_title</Stringname><English>Unsaved Changes</English></record>
+<record><Stringname>clear_form</Stringname><English>Clear Form</English></record>
+<record><Stringname>clear_form_body</Stringname><English>Are you sure you want to clear the form?</English></record>
+<record><Stringname>in_unsaved_changes_body</Stringname><English>Are you sure you want to leave the form ?</English></record>
+<record><Stringname>in_unsaved_changes_body_new</Stringname><English>Are you sure you want to continue without saving changes ?</English></record>
+<record><Stringname>category</Stringname><English>Category</English></record>
+<record><Stringname>total_qty</Stringname><English>Total Qty</English></record>
+<record><Stringname>use_original_terminal</Stringname><English>Please use %s terminal to perform this action</English></record>
+<record><Stringname>no_search_result</Stringname><English>No search result</English></record>
+<record><Stringname>minus_stock_title</Stringname><English>Negative stock alert</English></record>
+<record><Stringname>no_stock_title</Stringname><English>No stock alert</English></record>
+<record><Stringname>minus_stock_body</Stringname><English>Item %s is out of stock. Are you sure you want to continue?</English></record>
+<record><Stringname>stock_not_available</Stringname><English>There is no initial stock available, to allow negative stock! Please Add stock to this product.</English></record>
+<record><Stringname>product_information</Stringname><English>Product Information</English></record>
+<record><Stringname>price_information</Stringname><English>Price Information</English></record>
+<record><Stringname>enable</Stringname><English>Enable</English></record>
+<record><Stringname>disable</Stringname><English>Disable</English></record>
+<record><Stringname>sold_by</Stringname><English>Sold By</English></record>
+<record><Stringname>settled_inv_history_delete_access_si</Stringname><English>Cannot delete this receipt due to the credit settlement </English></record>
+<record><Stringname>delete</Stringname><English>Delete</English></record>
+<record><Stringname>cancel</Stringname><English>Cancel</English></record>
+<record><Stringname>edit</Stringname><English>Edit</English></record>
+<record><Stringname>open_shift_button</Stringname><English>Open Shift</English></record>
+<record><Stringname>co_minus_stock_body</Stringname><English>Out of stock. Are you sure you want to continue?</English></record>
+<record><Stringname>cannot_find_camera</Stringname><English>You device has not camera.</English></record>
+<record><Stringname>unit_cost</Stringname><English>Unit Cost</English></record>
+<record><Stringname>total_cost</Stringname><English>Total Cost</English></record>
+<record><Stringname>product_cost</Stringname><English>Product Cost</English></record>
+<record><Stringname>gross_profit</Stringname><English>Gross Profit</English></record>
+<record><Stringname>update</Stringname><English>Update</English></record>
+<record><Stringname>we_added_lots_of_new_features_and_fix_some_bugs_to_make_your_experience_as_smooth_as_possible</Stringname><English>We added lots of new features and fix some bugs to make your experience as smooth as possible.</English></record>
+<record><Stringname>time_to_update</Stringname><English>Time To Update!</English></record>
+<record><Stringname>create_category</Stringname><English>Create category</English></record>
+<record><Stringname>category_name</Stringname><English>Category name</English></record>
+<record><Stringname>prepared_by</Stringname><English>Prepared By</English></record>
+<record><Stringname>approved_by</Stringname><English>Approved By</English></record>
+<record><Stringname>reveived_by</Stringname><English>Received By</English></record>
+<record><Stringname>print_date</Stringname><English>Print Date</English></record>
+<record><Stringname>adjustment_type</Stringname><English>SA Type</English></record>
+<record><Stringname>adjustment_reason</Stringname><English>SA Reason</English></record>
+<record><Stringname>adjust</Stringname><English>Adj.</English></record>
+<record><Stringname>after</Stringname><English>Aftr.</English></record>
+<record><Stringname>stock</Stringname><English>Stock</English></record>
+<record><Stringname>from_location</Stringname><English>From Location</English></record>
+<record><Stringname>to_location</Stringname><English>To Location</English></record>
+<record><Stringname>transferred</Stringname><English>Transferred</English></record>
+<record><Stringname>in_hand</Stringname><English>In-Hand</English></record>
+<record><Stringname>in</Stringname><English>In</English></record>
+<record><Stringname>out</Stringname><English>Out</English></record>
+<record><Stringname>transfer_type</Stringname><English>Transfer Type</English></record>
+<record><Stringname>invald_pin</Stringname><English>Wrong PIN</English></record>
+<record><Stringname>product_stock_details</Stringname><English>Product Stock Details</English></record>
+<record><Stringname>avg</Stringname><English>AVG</English></record>
+<record><Stringname>available</Stringname><English>AVL</English></record>
+<record><Stringname>not_subcategories_yet</Stringname><English>You do not have Subcategories yet.\n To Add Subcategory press the (+) button.</English></record>
+<record><Stringname>product_is_already_add_or_not_found</Stringname><English>Product is already add or not found.</English></record>
+<record><Stringname>enter_pin</Stringname><English>Enter PIN</English></record>
+<record><Stringname>new_text</Stringname><English>New</English></record>
+<record><Stringname>total_paid</Stringname><English>Total paid</English></record>
+<record><Stringname>send_receipt</Stringname><English>Send receipt</English></record>
+<record><Stringname>change</Stringname><English>Change</English></record>
+<record><Stringname>payments</Stringname><English>Payments</English></record>
+<record><Stringname>wifi_printer_not_connect</Stringname><English>Connect the WIFI-printer</English></record>
+<record><Stringname>bluetooth_not_supported</Stringname><English>This device does not support Bluetooth</English></record>
+<record><Stringname>payment_method_already_exist</Stringname><English>This payment method already exist.</English></record>
+<record><Stringname>credit_payment_not_allowed_multi_payment</Stringname><English>Credit payment does not allowed for multi payment.</English></record>
+<record><Stringname>advance_inventory_features</Stringname><English>Advanced Inventory Features</English></record>
+<record><Stringname>subscribe</Stringname><English>Subscribe</English></record>
+<record><Stringname>subscription_period_has_been_expired</Stringname><English>Subscription period has been expired.</English></record>
+<record><Stringname>status</Stringname><English>Status :</English></record>
+<record><Stringname>landscape</Stringname><English>Landscape</English></record>
+<record><Stringname>portrait</Stringname><English>Portrait</English></record>
+<record><Stringname>not_printers_yet</Stringname><English>You do not have printers yet.\nTo add printer press the (+) button.</English></record>
+<record><Stringname>account_delete_title</Stringname><English>Your account has been deleted.</English></record>
+<record><Stringname>account_delete_msg</Stringname><English>Thank you for using our service.</English></record>
+<record><Stringname>account_delete_re_install_msg</Stringname><English>Please uninstall the application and re-install.</English></record>
+<record><Stringname>not_category_yet</Stringname><English>You have no category yet</English></record>
+<record><Stringname>add_category_hint</Stringname><English>To add a category press the (+) button</English></record>
+<record><Stringname>cash_refund_amount</Stringname><English>Cash refund amount</English></record>
+<record><Stringname>credit_note_amount</Stringname><English>Credit note amount</English></record>
+<record><Stringname>refund_id</Stringname><English>Refund Id: </English></record>
+<record><Stringname>price_wrong</Stringname><English>Please enter a valid price</English></record>
+<record><Stringname>quantity_wrong</Stringname><English>Please enter a valid quantity</English></record>
+<record><Stringname>decimal_quantity_error</Stringname><English>Quantity cannot contain any decimal values</English></record>
+<record><Stringname>quantity_price_wrong</Stringname><English>Can\t have a price with quantity zero</English></record>
+<record><Stringname>total_price_wrong</Stringname><English>Can\'t have price higher than the maximum price</English></record>
+<record><Stringname>total_price_empty</Stringname><English>Can\'t have empty price</English></record>
+<record><Stringname>quantity_higher</Stringname><English>Invalid quantity</English></record>
+<record><Stringname>total_empty</Stringname><English>Please select an item to refund</English></record>
+<record><Stringname>refund_error_payment_type</Stringname><English>can\'t refund a credit receipt</English></record>
+<record><Stringname>quantity_empty</Stringname><English>Invalid quantity</English></record>
+<record><Stringname>discount</Stringname><English>Discount</English></record>
+<record><Stringname>search_view_hint_product</Stringname><English>Search Product</English></record>
+<record><Stringname>redeem_point</Stringname><English>Redeem point</English></record>
+<record><Stringname>remove_from_receipt</Stringname><English>REMOVE FROM RECEIPT</English></record>
+<record><Stringname>refund_capital</Stringname><English>REFUND</English></record>
+<record><Stringname>cash_refund_top_bar</Stringname><English>Cash refund</English></record>
+<record><Stringname>receipt_top_bar</Stringname><English>Receipt : #</English></record>
+<record><Stringname>total</Stringname><English>Total</English></record>
+<record><Stringname>cash_refund</Stringname><English>Cash Refund</English></record>
+<record><Stringname>select_location</Stringname><English>Select location</English></record>
+<record><Stringname>select_terminal</Stringname><English>Select terminal</English></record>
+<record><Stringname>add_product_si</Stringname><English>Create products</English></record>
+<record><Stringname>edit_product_si</Stringname><English>Edit products</English></record>
+<record><Stringname>product_name</Stringname><English>Product name</English></record>
+<record><Stringname>product_code_sku</Stringname><English>Product Code (SKU)</English></record>
+<record><Stringname>barcode_si</Stringname><English>Barcode</English></record>
+<record><Stringname>available_to_sale</Stringname><English>Available to sale</English></record>
+<record><Stringname>product_selling_price</Stringname><English>Selling price</English></record>
+<record><Stringname>leave_the_field_blank_price</Stringname><English>Leave the field blank to indicate the price upon sale.</English></record>
+<record><Stringname>value_updates_automatically_when_you_receive_inventory</Stringname><English>Value updates automatically when you receive inventory.</English></record>
+<record><Stringname>inventory</Stringname><English>Inventory</English></record>
+<record><Stringname>track_stock</Stringname><English>Track stock</English></record>
+<record><Stringname>in_stock</Stringname><English>In Stock</English></record>
+<record><Stringname>leave_the_field_override_stock</Stringname><English>This amount will override your existing stock amount.</English></record>
+<record><Stringname>product_image</Stringname><English>Product Image</English></record>
+<record><Stringname>take_a_photo</Stringname><English>Take a photo</English></record>
+<record><Stringname>choose_a_photo</Stringname><English>Choose a photo</English></record>
+<record><Stringname>remove_photo</Stringname><English>Remove photo</English></record>
+<record><Stringname>price_change</Stringname><English>Price Change</English></record>
+<record><Stringname>category_view_si</Stringname><English>Product categories</English></record>
+<record><Stringname>sub_category_view_si</Stringname><English>Product sub categories</English></record>
+<record><Stringname>grn</Stringname><English>Good received note</English></record>
+<record><Stringname>search_grn</Stringname><English>Search GRN</English></record>
+<record><Stringname>body_edit_grn_item_new</Stringname><English>Are you sure want to edit this good receive note?</English></record>
+<record><Stringname>body_grn_submit_dialog</Stringname><English>Do you want to submit this GRN ?</English></record>
+<record><Stringname>body_grn_submit_dialog_new</Stringname><English>Are you sure want to submit GRN?</English></record>
+<record><Stringname>title_sumbit_grn_dialog</Stringname><English>Submit GRN</English></record>
+<record><Stringname>title_sumbit_grn_dialog_new</Stringname><English>Good receive note</English></record>
+<record><Stringname>grn_items_remove_title</Stringname><English>Remove GRN Item(s)</English></record>
+<record><Stringname>title_edit_grn_item</Stringname><English>Edit GRN Item</English></record>
+<record><Stringname>title_edit_grn_item_new</Stringname><English>Edit good receive note</English></record>
+<record><Stringname>print_grn_si</Stringname><English>Goods Received Note</English></record>
+<record><Stringname>grn_number</Stringname><English>GRN Number</English></record>
+<record><Stringname>grn_total_amount</Stringname><English>GRN Total Amount</English></record>
+<record><Stringname>print_grn_user_si</Stringname><English>GRN User</English></record>
+<record><Stringname>grn_no_si</Stringname><English>GRN No:</English></record>
+<record><Stringname>stk_unit_cost_si</Stringname><English>GRN Unit Cost</English></record>
+<record><Stringname>day_end_description2_si</Stringname><English>GRN details \nStock Transfers (in/out) \nStock Return \nIn Hand Stocks \nSales Records \nCash Transaction</English></record>
+<record><Stringname>stk_qty_si</Stringname><English>GRN Qty</English></record>
+<record><Stringname>grn_price_si</Stringname><English>GRN Price</English></record>
+<record><Stringname>grn_date_si</Stringname><English>GRN date</English></record>
+<record><Stringname>create_grn</Stringname><English>Create GRN</English></record>
+<record><Stringname>grn_item_list</Stringname><English>GRN Item List</English></record>
+<record><Stringname>grn_id</Stringname><English>GRN ID</English></record>
+<record><Stringname>grn_qty</Stringname><English>GRN QTY</English></record>
+<record><Stringname>view_grn</Stringname><English>GRN View</English></record>
+<record><Stringname>grn_date_filed_empty</Stringname><English>GRN Date is not defined</English></record>
+<record><Stringname>body_edit_grn_item</Stringname><English>Do you want to edit this item (</English></record>
+<record><Stringname>grn_item_remove_body</Stringname><English>Do you want to remove this item(s) ?</English></record>
+<record><Stringname>grn_verify_body_si</Stringname><English>Do you want to add this stock?</English></record>
+<record><Stringname>msg_exit_grn</Stringname><English>Do you want to exit without completing previous task?</English></record>
+<record><Stringname>good_receive_notes</Stringname><English>Good received notes (GRN)</English></record>
+<record><Stringname>stock_adjustment_item_list</Stringname><English>Stock Adjustment Item List</English></record>
+<record><Stringname>stock_ajustment</Stringname><English>Stock adjustments</English></record>
+<record><Stringname>print_stock_ajustment</Stringname><English>Stock Adjustment</English></record>
+<record><Stringname>create_stock_ajustment</Stringname><English>Create stock adjustment</English></record>
+<record><Stringname>title_edit_sa_item</Stringname><English>Edit SA Item</English></record>
+<record><Stringname>title_edit_sa_item_new</Stringname><English>Edit stock adjustment</English></record>
+<record><Stringname>body_edit_sa_item</Stringname><English>Do you want to edit this item (</English></record>
+<record><Stringname>body_edit_sa_item_new</Stringname><English>Are you sure want to edit this stock adjustment?</English></record>
+<record><Stringname>sa_items_remove_title</Stringname><English>Remove SA Item(s)</English></record>
+<record><Stringname>sa_item_remove_body</Stringname><English>Do you want to remove this item(s) ?</English></record>
+<record><Stringname>body_sa_submit_dialog</Stringname><English>Do you want to submit this SA ?</English></record>
+<record><Stringname>body_sa_submit_dialog_new</Stringname><English>Are you sure want to submit SA ?</English></record>
+<record><Stringname>title_submit_sa_dialog</Stringname><English>Submit SA</English></record>
+<record><Stringname>title_submit_sa_dialog_new</Stringname><English>Stock adjustment</English></record>
+<record><Stringname>select_sa_type</Stringname><English>Select type</English></record>
+<record><Stringname>select_sa_reason</Stringname><English>Select reason</English></record>
+<record><Stringname>search_sa</Stringname><English>Search SA</English></record>
+<record><Stringname>create_sa</Stringname><English>Create SA</English></record>
+<record><Stringname>sa_reduce_qty_error</Stringname><English>Adjustment quantity cannot exceed current in-hand quantity</English></record>
+<record><Stringname>sa_date</Stringname><English>SA Date</English></record>
+<record><Stringname>sa_reason</Stringname><English>Reason</English></record>
+<record><Stringname>sa_save_list_qty</Stringname><English>Qty</English></record>
+<record><Stringname>sa_number</Stringname><English>SA Number</English></record>
+<record><Stringname>stock_adjustments</Stringname><English>Stock adjustments (SA)</English></record>
+<record><Stringname>body_edit_tog_item</Stringname><English>Are you sure want to edit this transfer of goods?</English></record>
+<record><Stringname>tog_date</Stringname><English>TOG Date</English></record>
+<record><Stringname>view_tog</Stringname><English>TOG View</English></record>
+<record><Stringname>search_tog</Stringname><English>Search TOG</English></record>
+<record><Stringname>create_tog</Stringname><English>Create TOG</English></record>
+<record><Stringname>create_new_tog</Stringname><English>Create new TOG</English></record>
+<record><Stringname>tog_item_list</Stringname><English>TOG Item List</English></record>
+<record><Stringname>tog_product_not_availble</Stringname><English></English></record>
+<record><Stringname>tog_items_remove_title</Stringname><English>Remove TOG Item(s)</English></record>
+<record><Stringname>tog_item_remove_body</Stringname><English>Do you want to remove this item(s) ?</English></record>
+<record><Stringname>title_edit_tog_item</Stringname><English>Edit TOG Item</English></record>
+<record><Stringname>title_edit_tog_item_new</Stringname><English>Edit transfer of goods</English></record>
+<record><Stringname>title_sumbit_tog_dialog</Stringname><English>Submit TOG</English></record>
+<record><Stringname>title_sumbit_tog_dialog_new</Stringname><English>Transfer of goods</English></record>
+<record><Stringname>body_tog_submit_dialog</Stringname><English>Do you want to submit this TOG ?</English></record>
+<record><Stringname>body_tog_submit_dialog_new</Stringname><English>Are you sure want to submit TOG?</English></record>
+<record><Stringname>tog_number</Stringname><English>TOG Number</English></record>
+<record><Stringname>transfer_of_goods</Stringname><English>Transfer of goods</English></record>
+<record><Stringname>transfer_of_goods_tog</Stringname><English>Transfer of goods (TOG)</English></record>
+<record><Stringname>cus_id_si</Stringname><English>*Unique Reference</English></record>
+<record><Stringname>cus_phone_si</Stringname><English>Phone</English></record>
+<record><Stringname>cus_email_si</Stringname><English>Enter email address</English></record>
+<record><Stringname>pre_outstanding_si</Stringname><English>Pre.Outstanding</English></record>
+<record><Stringname>settled_amount_si</Stringname><English>Settled Amount</English></record>
+<record><Stringname>settlement_amount_si</Stringname><English>Settlement Amount</English></record>
+<record><Stringname>settlement_date_si</Stringname><English>Settlement Date</English></record>
+<record><Stringname>new_outstanding_si</Stringname><English>New Outstanding</English></record>
+<record><Stringname>past_credit_receipt</Stringname><English>Past Credit Receipt</English></record>
+<record><Stringname>settled_credit_receipt</Stringname><English>Settled Credit Receipt</English></record>
+<record><Stringname>settle_receipt</Stringname><English>Settle receipt</English></record>
+<record><Stringname>settle</Stringname><English>Settle</English></record>
+<record><Stringname>validate_existing_p_code</Stringname><English>Product code is already existing</English></record>
+<record><Stringname>special_characters_not_allowed</Stringname><English>Special characters not allowed</English></record>
+<record><Stringname>cus_l_name_si</Stringname><English>Customer Name</English></record>
+<record><Stringname>cus_l_city_si</Stringname><English>City/Town</English></record>
+<record><Stringname>employee_search_hint_si</Stringname><English>Search by employee code</English></record>
+<record><Stringname>agent_search_hint_si</Stringname><English>Search by agent code</English></record>
+<record><Stringname>print_customer_name_si</Stringname><English>Customer Name</English></record>
+<record><Stringname>print_customer_id</Stringname><English>Customer ID :</English></record>
+<record><Stringname>cs_customer_si</Stringname><English>Customer</English></record>
+<record><Stringname>popup_select_customer_si</Stringname><English>Select Customer</English></record>
+<record><Stringname>search_customer</Stringname><English>Search customers </English></record>
+<record><Stringname>customer_profile</Stringname><English>Customer profile</English></record>
+<record><Stringname>edit_profile</Stringname><English>EDIT PROFILE</English></record>
+<record><Stringname>redeem_points</Stringname><English>REDEEM POINTS</English></record>
+<record><Stringname>create_customer</Stringname><English>Create Customer</English></record>
+<record><Stringname>edit_customer</Stringname><English>Edit Customer</English></record>
+<record><Stringname>add_new_customer</Stringname><English>ADD NEW CUSTOMER</English></record>
+<record><Stringname>add_to_receipt</Stringname><English>ADD TO RECEIPT</English></record>
+<record><Stringname>cus_id_already_exist</Stringname><English>Customer ID already exist</English></record>
+<record><Stringname>v_cus_name_si</Stringname><English>Name</English></record>
+<record><Stringname>customer_name_si</Stringname><English>Customer Name</English></record>
+<record><Stringname>customer_id_si</Stringname><English>Customer Id</English></record>
+<record><Stringname>cust_name</Stringname><English>Customer</English></record>
+<record><Stringname>remove_customer</Stringname><English>REMOVE FROM RECEIPT</English></record>
+<record><Stringname>generate_nfc</Stringname><English>GENERATE NFC</English></record>
+<record><Stringname>no_terminal_title</Stringname><English>There is no NEW POS terminal available in the shop</English></record>
+<record><Stringname>no_terminal_msg</Stringname><English>Add NEW POS terminal(s) in the backoffice</English></record>
+<record><Stringname>display_not_connected</Stringname><English>Customer display is not connected.Please restart the machine</English></record>
+<record><Stringname>security_exception</Stringname><English>open CashBox fail:SecurityException</English></record>
+<record><Stringname>io_exception</Stringname><English>open CashBox fail:IOException</English></record>
+<record><Stringname>invalid_parameter_exception</Stringname><English>open CashBox fail:InvalidParameterException</English></record>
+<record><Stringname>try_again</Stringname><English>Try Again!</English></record>
+<record><Stringname>kot_uploading_fail</Stringname><English>Kot uploading is fail</English></record>
+<record><Stringname>kot_not_delivered</Stringname><English>Kot is not diliverd</English></record>
+<record><Stringname>kot_cancelation_fail</Stringname><English>Kot cancellation is fail</English></record>
+<record><Stringname>permission_for_printer</Stringname><English>Plaese give permision for use printer</English></record>
+<record><Stringname>printer_has_no_paper</Stringname><English>The printer has no paper</English></record>
+<record><Stringname>problem_with_bluetooth</Stringname><English>Problem with bluetooth connection</English></record>
+<record><Stringname>problem_with_network</Stringname><English>Problem with Network connection</English></record>
+<record><Stringname>connect_the_wifi_printer_error</Stringname><English>Connect the WIFI-printer error</English></record>
+<record><Stringname>no_apps_to_share</Stringname><English>No apps to share !</English></record>
+<record><Stringname>backup_fail</Stringname><English>Backup Failed!</English></record>
+<record><Stringname>hello_blank_fragment</Stringname><English>Hello blank fragment</English></record>
+<record><Stringname>create_products</Stringname><English>Create Products</English></record>
+<record><Stringname>assign_products</Stringname><English>Assign Products</English></record>
+<record><Stringname>assign_products_to_category</Stringname><English>Assign products to category</English></record>
+<record><Stringname>category_created</Stringname><English>Category created successfully</English></record>
+<record><Stringname>select_products</Stringname><English>Select products to save</English></record>
+<record><Stringname>multiple_products_added_to_category</Stringname><English>Products added to the category successfully</English></record>
+<record><Stringname>use_sub_category</Stringname><English>Use subcategory</English></record>
+<record><Stringname>select_sub_category</Stringname><English>Select subcategory</English></record>
+<record><Stringname>create_sub_category</Stringname><English>Create subcategory</English></record>
+<record><Stringname>category_with_colon</Stringname><English>Category : </English></record>
+<record><Stringname>subcategory_with_colon</Stringname><English>Subcategory  : </English></record>
+<record><Stringname>customer_order</Stringname><English>Customer order</English></record>
+<record><Stringname>search_employees</Stringname><English>Search employees</English></record>
+<record><Stringname>start_date</Stringname><English>Start date</English></record>
+<record><Stringname>duration</Stringname><English>Duration</English></record>
+<record><Stringname>end_date</Stringname><English>End Date</English></record>
+<record><Stringname>start_time</Stringname><English>Start Time</English></record>
+<record><Stringname>days</Stringname><English></English></record>
+<record><Stringname>hh_mm</Stringname><English>HH:MM</English></record>
+<record><Stringname>subcategory_already_exists</Stringname><English>Subcategory already exists</English></record>
+<record><Stringname>category_name_required</Stringname><English>Category name required</English></record>
+<record><Stringname>when_selling_the_same_item_you_can_add_to_the_existing_line_increase_quantity_or_add_a_new_line</Stringname><English>When selling THE SAME ITEM, you can add to the existing line ( increase quantity) or add a new line</English></record>
+<record><Stringname>re_launch</Stringname><English>Re-launch</English></record>
+<record><Stringname>select_reservation_time</Stringname><English>Select reservation time</English></record>
+<record><Stringname>already_booked</Stringname><English>Already booked</English></record>
+<record><Stringname>select_a_time</Stringname><English>Please select a Time</English></record>
+<record><Stringname>select_an_employee</Stringname><English>Please select an employee</English></record>
+<record><Stringname>already_selected</Stringname><English>Already selected</English></record>
+<record><Stringname>reservation_summary</Stringname><English>Reservation summary</English></record>
+<record><Stringname>customer_reservation_summary</Stringname><English>Customer :</English></record>
+<record><Stringname>employee_reservation_summary</Stringname><English>Employee :</English></record>
+<record><Stringname>open_shift_confirmation_alert_msg</Stringname><English>Are you sure want to start shift ?</English></record>
+<record><Stringname>open</Stringname><English>Open</English></record>
